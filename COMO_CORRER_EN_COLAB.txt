@@ -1,0 +1,111 @@
+===============================================================================
+COMO CORRER tesis_grupo7.py EN GOOGLE COLAB
+Grupo 7 (Melo, Ojeda, Yucasi) — Maestria en Ciencia de Datos, UC
+===============================================================================
+
+DONDE ESTA CADA COSA EN EL DRIVE
+  /MyDrive/tesis_grupo7/   tesis_grupo7.py  (el codigo)
+  /MyDrive/                matriz_maestra_full_T.xlsx
+  /MyDrive/M5/             m5_mensual_item.csv, m5_precios_item.csv
+  /MyDrive/rohlik/         rohlik_cz_mensual.csv, rohlik_cz_precios.csv
+                           rohlik_hu_mensual.csv, rohlik_hu_precios.csv
+
+El script busca solo en esas carpetas. No hay que mover nada.
+Si no encuentra un archivo, imprime cual es y donde busco, y se detiene.
+
+
+-------------------------------------------------------------------------------
+CELDA 1 — FIJAR LAS VERSIONES  (obligatoria, se corre una sola vez)
+-------------------------------------------------------------------------------
+!pip -q install "numpy==2.4.4" "pandas==3.0.2" "scipy==1.17.1" \
+                "scikit-learn==1.8.0" "xgboost==3.2.0" "statsmodels==0.15.0"
+
+AVISO: Colab trae otras versiones preinstaladas. Es normal que al terminar
+pida REINICIAR EL ENTORNO DE EJECUCION. Reinicia y sigue con la celda 2.
+No vuelvas a correr la celda 1 despues de reiniciar.
+
+
+-------------------------------------------------------------------------------
+CELDA 2 — COMPROBAR QUE QUEDARON LAS VERSIONES CORRECTAS
+-------------------------------------------------------------------------------
+import sys, numpy, pandas, scipy, sklearn, xgboost, statsmodels
+esperado = {'python':'3.11', 'numpy':'2.4.4', 'pandas':'3.0.2',
+            'scipy':'1.17.1', 'scikit-learn':'1.8.0',
+            'xgboost':'3.2.0', 'statsmodels':'0.15.0'}
+actual = {'python':'.'.join(sys.version.split()[0].split('.')[:2]),
+          'numpy':numpy.__version__, 'pandas':pandas.__version__,
+          'scipy':scipy.__version__, 'scikit-learn':sklearn.__version__,
+          'xgboost':xgboost.__version__, 'statsmodels':statsmodels.__version__}
+for k in esperado:
+    ok = 'OK ' if actual[k] == esperado[k] else 'DISTINTO'
+    print(f"{k:<14} esperado {esperado[k]:<8} actual {actual[k]:<8} {ok}")
+
+Si alguna sale DISTINTO, las cifras pueden no coincidir exactamente con las
+del documento. Avisar antes de seguir.
+
+
+-------------------------------------------------------------------------------
+CELDA 3 — MONTAR EL DRIVE Y UBICARSE
+-------------------------------------------------------------------------------
+from google.colab import drive
+drive.mount('/content/drive')
+%cd /content/drive/MyDrive/tesis_grupo7
+
+
+-------------------------------------------------------------------------------
+CELDA 4 — CORRER  (uno a la vez; guardar la salida completa de cada uno)
+-------------------------------------------------------------------------------
+!python tesis_grupo7.py privado
+!python tesis_grupo7.py m5
+!python tesis_grupo7.py rohlik_cz
+!python tesis_grupo7.py rohlik_hu
+
+Cada modo tarda varios minutos. El de la empresa (privado) es el mas lento
+porque recorre la rejilla de hiperparametros de los dos algoritmos por grupo.
+
+
+-------------------------------------------------------------------------------
+QUE COMPROBAR CONTRA EL DOCUMENTO
+-------------------------------------------------------------------------------
+De cada corrida, contrastar con resumen_cuatro_conjuntos.csv y con el Word:
+  1. Numero de clusters:  privado K=3, M5 K=4, Chequia K=5, Hungria K=6
+  2. Tamanio de la muestra: privado 324, Chequia 509, Hungria 278
+  3. Ganador del torneo por grupo (16 veces bosque aleatorio, 2 XGBoost)
+  4. WMAPE valorizado del cluster de mayor peso economico, los tres metodos
+  5. Valores p del contraste de Wilcoxon
+
+Semilla fija en 75 en todo el flujo. Con las mismas versiones y los mismos
+archivos de entrada, los numeros deben reproducirse.
+
+
+-------------------------------------------------------------------------------
+SI ALGO NO COINCIDE
+-------------------------------------------------------------------------------
+1. Revisar primero la celda 2: la causa mas frecuente es una version distinta.
+2. Revisar que el archivo de entrada sea el mismo (comparar el peso en bytes):
+     matriz_maestra_full_T.xlsx   3,113,538 bytes
+     m5_mensual_item.csv            771,949 bytes
+     m5_precios_item.csv            154,344 bytes
+     rohlik_cz_mensual.csv          337,689 bytes
+     rohlik_cz_precios.csv           21,928 bytes
+     rohlik_hu_mensual.csv          287,105 bytes
+     rohlik_hu_precios.csv           20,736 bytes
+3. Guardar la salida completa de la corrida que difiere y revisarla en conjunto
+   antes de tocar el documento. No modificar cifras del Word sin identificar la
+   causa de la diferencia.
+
+
+-------------------------------------------------------------------------------
+DE DONDE SALEN LOS CSV DE ENTRADA  (trazabilidad para el jurado)
+-------------------------------------------------------------------------------
+m5.ipynb     : de calendar.csv + sales_train_evaluation.csv + sell_prices.csv
+               de la competencia M5 de Walmart. Suma las 10 tiendas a mes por
+               item_id. Salida: 3,049 items x 65 meses (2011-01 a 2016-05).
+Rohlik.ipynb : del zip de la competencia Rohlik Sales Forecasting Challenge v2.
+               Mapea los almacenes de Praga y Brno a Chequia y el de Budapest
+               a Hungria, suma la venta diaria a mes por product_unique_id y
+               calcula el precio medio ponderado por unidades.
+               Nota a declarar: ese precio medio se calcula sobre todo el
+               historial, periodo de prueba incluido. El precio solo valoriza
+               las metricas y alimenta LOG_VALOR; no entra como predictor.
+===============================================================================

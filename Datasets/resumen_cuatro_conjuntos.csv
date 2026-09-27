@@ -1,0 +1,5 @@
+Conjunto evaluado,Fuente,Muestra (SKU),K,Clúster de mayor peso,% del valor (train),WMAPE$ Arquitectura,WMAPE$ Promedio móvil,WMAPE$ Holt-Winters,p vs PM,p vs HW,BIAS$ Arquitectura,BIAS$ Promedio móvil,BIAS$ Holt-Winters
+Empresa del sector retail peruano,Sistema transaccional propio,324,3,Núcleo de alto valor,77.2%,32.8%,33.4%,33.8%,0.0123,0.0045,−7.3%,−8.2%,−9.8%
+Walmart M5,Competencia M5,1826,4,Núcleo de alto valor,60.6%,23.8%,31.4%,26.7%,0.0000,0.0000,−6.4%,+2.6%,−3.6%
+Rohlik Chequia,Rohlik Group,509,5,Núcleo de alto valor,41.0%,32.4%,34.9%,34.9%,0.1633,0.0629,+5.4%,−0.9%,−3.0%
+Rohlik Hungría,Rohlik Group,278,6,Núcleo de alto valor,35.8%,42.6%,44.9%,51.0%,0.2854,0.0300,+17.5%,+1.6%,+11.1%

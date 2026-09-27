@@ -1,0 +1,510 @@
+sku,cluster,nombre
+7,5,Emergentes de crecimiento
+12,1,Núcleo de alto valor
+13,1,Núcleo de alto valor
+18,4,Cola volátil 1
+22,2,Cola volátil 2
+24,1,Núcleo de alto valor
+31,4,Cola volátil 1
+33,2,Cola volátil 2
+34,4,Cola volátil 1
+38,2,Cola volátil 2
+42,1,Núcleo de alto valor
+43,3,Cola volátil 3
+45,2,Cola volátil 2
+48,2,Cola volátil 2
+53,3,Cola volátil 3
+79,4,Cola volátil 1
+80,4,Cola volátil 1
+83,2,Cola volátil 2
+103,5,Emergentes de crecimiento
+106,1,Núcleo de alto valor
+116,4,Cola volátil 1
+128,4,Cola volátil 1
+152,2,Cola volátil 2
+163,3,Cola volátil 3
+165,2,Cola volátil 2
+166,1,Núcleo de alto valor
+177,1,Núcleo de alto valor
+180,3,Cola volátil 3
+200,1,Núcleo de alto valor
+203,2,Cola volátil 2
+206,4,Cola volátil 1
+229,4,Cola volátil 1
+231,2,Cola volátil 2
+235,2,Cola volátil 2
+242,3,Cola volátil 3
+251,1,Núcleo de alto valor
+258,5,Emergentes de crecimiento
+260,1,Núcleo de alto valor
+265,2,Cola volátil 2
+271,2,Cola volátil 2
+273,4,Cola volátil 1
+287,1,Núcleo de alto valor
+289,5,Emergentes de crecimiento
+293,5,Emergentes de crecimiento
+296,1,Núcleo de alto valor
+298,1,Núcleo de alto valor
+300,2,Cola volátil 2
+306,2,Cola volátil 2
+308,4,Cola volátil 1
+316,1,Núcleo de alto valor
+317,4,Cola volátil 1
+318,1,Núcleo de alto valor
+322,1,Núcleo de alto valor
+328,5,Emergentes de crecimiento
+332,2,Cola volátil 2
+337,4,Cola volátil 1
+344,2,Cola volátil 2
+356,4,Cola volátil 1
+361,1,Núcleo de alto valor
+362,1,Núcleo de alto valor
+367,4,Cola volátil 1
+374,4,Cola volátil 1
+379,2,Cola volátil 2
+388,1,Núcleo de alto valor
+398,2,Cola volátil 2
+407,4,Cola volátil 1
+429,4,Cola volátil 1
+433,1,Núcleo de alto valor
+434,1,Núcleo de alto valor
+435,2,Cola volátil 2
+452,1,Núcleo de alto valor
+453,2,Cola volátil 2
+454,4,Cola volátil 1
+461,3,Cola volátil 3
+469,1,Núcleo de alto valor
+472,2,Cola volátil 2
+480,4,Cola volátil 1
+486,1,Núcleo de alto valor
+487,1,Núcleo de alto valor
+495,2,Cola volátil 2
+496,4,Cola volátil 1
+507,1,Núcleo de alto valor
+512,4,Cola volátil 1
+513,4,Cola volátil 1
+519,2,Cola volátil 2
+520,3,Cola volátil 3
+523,4,Cola volátil 1
+526,1,Núcleo de alto valor
+528,4,Cola volátil 1
+529,4,Cola volátil 1
+536,5,Emergentes de crecimiento
+552,2,Cola volátil 2
+554,1,Núcleo de alto valor
+558,4,Cola volátil 1
+562,2,Cola volátil 2
+563,4,Cola volátil 1
+564,2,Cola volátil 2
+565,4,Cola volátil 1
+572,2,Cola volátil 2
+573,4,Cola volátil 1
+594,4,Cola volátil 1
+600,4,Cola volátil 1
+603,2,Cola volátil 2
+604,1,Núcleo de alto valor
+605,4,Cola volátil 1
+610,3,Cola volátil 3
+614,2,Cola volátil 2
+618,2,Cola volátil 2
+621,4,Cola volátil 1
+627,1,Núcleo de alto valor
+643,4,Cola volátil 1
+648,2,Cola volátil 2
+649,2,Cola volátil 2
+651,3,Cola volátil 3
+653,2,Cola volátil 2
+656,4,Cola volátil 1
+659,2,Cola volátil 2
+660,2,Cola volátil 2
+662,5,Emergentes de crecimiento
+672,1,Núcleo de alto valor
+682,2,Cola volátil 2
+685,1,Núcleo de alto valor
+695,4,Cola volátil 1
+697,3,Cola volátil 3
+698,5,Emergentes de crecimiento
+702,4,Cola volátil 1
+704,4,Cola volátil 1
+708,2,Cola volátil 2
+710,2,Cola volátil 2
+716,1,Núcleo de alto valor
+717,4,Cola volátil 1
+731,4,Cola volátil 1
+736,5,Emergentes de crecimiento
+739,2,Cola volátil 2
+741,1,Núcleo de alto valor
+752,5,Emergentes de crecimiento
+753,4,Cola volátil 1
+754,4,Cola volátil 1
+758,2,Cola volátil 2
+766,4,Cola volátil 1
+771,2,Cola volátil 2
+777,2,Cola volátil 2
+778,4,Cola volátil 1
+792,2,Cola volátil 2
+793,2,Cola volátil 2
+794,1,Núcleo de alto valor
+796,3,Cola volátil 3
+816,3,Cola volátil 3
+824,3,Cola volátil 3
+828,1,Núcleo de alto valor
+829,2,Cola volátil 2
+839,2,Cola volátil 2
+840,1,Núcleo de alto valor
+843,2,Cola volátil 2
+844,2,Cola volátil 2
+846,5,Emergentes de crecimiento
+873,4,Cola volátil 1
+893,4,Cola volátil 1
+897,3,Cola volátil 3
+904,1,Núcleo de alto valor
+910,1,Núcleo de alto valor
+911,4,Cola volátil 1
+918,5,Emergentes de crecimiento
+919,4,Cola volátil 1
+928,4,Cola volátil 1
+929,4,Cola volátil 1
+930,4,Cola volátil 1
+935,2,Cola volátil 2
+936,4,Cola volátil 1
+937,4,Cola volátil 1
+938,4,Cola volátil 1
+944,1,Núcleo de alto valor
+945,5,Emergentes de crecimiento
+951,4,Cola volátil 1
+956,5,Emergentes de crecimiento
+965,1,Núcleo de alto valor
+972,4,Cola volátil 1
+982,4,Cola volátil 1
+983,2,Cola volátil 2
+984,3,Cola volátil 3
+985,5,Emergentes de crecimiento
+988,3,Cola volátil 3
+1008,1,Núcleo de alto valor
+1009,4,Cola volátil 1
+1013,3,Cola volátil 3
+1015,4,Cola volátil 1
+1019,1,Núcleo de alto valor
+1027,4,Cola volátil 1
+1039,1,Núcleo de alto valor
+1048,5,Emergentes de crecimiento
+1050,5,Emergentes de crecimiento
+1054,3,Cola volátil 3
+1073,2,Cola volátil 2
+1074,1,Núcleo de alto valor
+1075,1,Núcleo de alto valor
+1076,1,Núcleo de alto valor
+1078,2,Cola volátil 2
+1079,2,Cola volátil 2
+1081,2,Cola volátil 2
+1086,2,Cola volátil 2
+1091,1,Núcleo de alto valor
+1099,4,Cola volátil 1
+1102,5,Emergentes de crecimiento
+1105,2,Cola volátil 2
+1112,2,Cola volátil 2
+1121,2,Cola volátil 2
+1124,4,Cola volátil 1
+1131,2,Cola volátil 2
+1134,4,Cola volátil 1
+1140,2,Cola volátil 2
+1141,4,Cola volátil 1
+1152,4,Cola volátil 1
+1154,4,Cola volátil 1
+1156,2,Cola volátil 2
+1157,4,Cola volátil 1
+1158,2,Cola volátil 2
+1161,1,Núcleo de alto valor
+1162,4,Cola volátil 1
+1164,5,Emergentes de crecimiento
+1169,2,Cola volátil 2
+1172,4,Cola volátil 1
+1173,4,Cola volátil 1
+1180,1,Núcleo de alto valor
+1184,5,Emergentes de crecimiento
+1185,4,Cola volátil 1
+1194,2,Cola volátil 2
+1196,3,Cola volátil 3
+1201,2,Cola volátil 2
+1202,4,Cola volátil 1
+1214,5,Emergentes de crecimiento
+1219,5,Emergentes de crecimiento
+1223,5,Emergentes de crecimiento
+1227,4,Cola volátil 1
+1232,3,Cola volátil 3
+1240,5,Emergentes de crecimiento
+1250,2,Cola volátil 2
+1253,2,Cola volátil 2
+1259,4,Cola volátil 1
+1262,4,Cola volátil 1
+1270,2,Cola volátil 2
+1272,4,Cola volátil 1
+1275,3,Cola volátil 3
+1276,5,Emergentes de crecimiento
+1279,1,Núcleo de alto valor
+1280,2,Cola volátil 2
+1281,4,Cola volátil 1
+1292,3,Cola volátil 3
+1301,4,Cola volátil 1
+1302,4,Cola volátil 1
+1309,4,Cola volátil 1
+1311,1,Núcleo de alto valor
+1328,3,Cola volátil 3
+1332,5,Emergentes de crecimiento
+1336,5,Emergentes de crecimiento
+1337,4,Cola volátil 1
+1338,2,Cola volátil 2
+1346,3,Cola volátil 3
+1351,1,Núcleo de alto valor
+1355,4,Cola volátil 1
+1356,4,Cola volátil 1
+1358,4,Cola volátil 1
+1363,4,Cola volátil 1
+1371,4,Cola volátil 1
+1394,5,Emergentes de crecimiento
+1407,1,Núcleo de alto valor
+1411,1,Núcleo de alto valor
+1412,2,Cola volátil 2
+1413,2,Cola volátil 2
+1419,4,Cola volátil 1
+1429,2,Cola volátil 2
+1436,1,Núcleo de alto valor
+1437,4,Cola volátil 1
+1443,1,Núcleo de alto valor
+1449,1,Núcleo de alto valor
+1450,2,Cola volátil 2
+1453,1,Núcleo de alto valor
+1455,4,Cola volátil 1
+1456,2,Cola volátil 2
+1459,2,Cola volátil 2
+1460,5,Emergentes de crecimiento
+1463,4,Cola volátil 1
+1464,4,Cola volátil 1
+1467,1,Núcleo de alto valor
+1468,2,Cola volátil 2
+1469,1,Núcleo de alto valor
+1474,2,Cola volátil 2
+1477,2,Cola volátil 2
+1478,2,Cola volátil 2
+1479,4,Cola volátil 1
+1481,2,Cola volátil 2
+1501,4,Cola volátil 1
+1504,5,Emergentes de crecimiento
+1512,1,Núcleo de alto valor
+1515,3,Cola volátil 3
+1517,3,Cola volátil 3
+1519,1,Núcleo de alto valor
+1538,4,Cola volátil 1
+1540,4,Cola volátil 1
+1543,5,Emergentes de crecimiento
+1548,4,Cola volátil 1
+1549,2,Cola volátil 2
+1551,1,Núcleo de alto valor
+1572,4,Cola volátil 1
+1576,1,Núcleo de alto valor
+1577,2,Cola volátil 2
+1579,2,Cola volátil 2
+1580,3,Cola volátil 3
+1581,1,Núcleo de alto valor
+1587,2,Cola volátil 2
+1588,3,Cola volátil 3
+1599,4,Cola volátil 1
+1612,3,Cola volátil 3
+1615,3,Cola volátil 3
+1622,2,Cola volátil 2
+1625,4,Cola volátil 1
+1626,4,Cola volátil 1
+1632,3,Cola volátil 3
+1639,2,Cola volátil 2
+1643,4,Cola volátil 1
+1647,2,Cola volátil 2
+1649,2,Cola volátil 2
+1654,2,Cola volátil 2
+1656,4,Cola volátil 1
+1657,4,Cola volátil 1
+1661,4,Cola volátil 1
+1662,2,Cola volátil 2
+1673,3,Cola volátil 3
+1674,2,Cola volátil 2
+1691,1,Núcleo de alto valor
+1696,4,Cola volátil 1
+1697,4,Cola volátil 1
+1701,1,Núcleo de alto valor
+1702,5,Emergentes de crecimiento
+1707,3,Cola volátil 3
+1708,3,Cola volátil 3
+1709,4,Cola volátil 1
+1713,2,Cola volátil 2
+1716,3,Cola volátil 3
+1721,4,Cola volátil 1
+1726,1,Núcleo de alto valor
+1742,1,Núcleo de alto valor
+1746,2,Cola volátil 2
+1754,1,Núcleo de alto valor
+1764,2,Cola volátil 2
+1769,1,Núcleo de alto valor
+1773,4,Cola volátil 1
+1783,4,Cola volátil 1
+1790,5,Emergentes de crecimiento
+1797,5,Emergentes de crecimiento
+1800,2,Cola volátil 2
+1806,2,Cola volátil 2
+1811,1,Núcleo de alto valor
+1815,2,Cola volátil 2
+1824,2,Cola volátil 2
+1831,2,Cola volátil 2
+1832,5,Emergentes de crecimiento
+1833,3,Cola volátil 3
+1840,5,Emergentes de crecimiento
+1843,2,Cola volátil 2
+1844,2,Cola volátil 2
+1878,3,Cola volátil 3
+1883,1,Núcleo de alto valor
+1884,4,Cola volátil 1
+1888,1,Núcleo de alto valor
+1892,4,Cola volátil 1
+1897,1,Núcleo de alto valor
+1898,4,Cola volátil 1
+1903,1,Núcleo de alto valor
+1909,4,Cola volátil 1
+1914,1,Núcleo de alto valor
+1917,3,Cola volátil 3
+1933,5,Emergentes de crecimiento
+1936,4,Cola volátil 1
+1941,5,Emergentes de crecimiento
+1950,2,Cola volátil 2
+1973,4,Cola volátil 1
+1989,4,Cola volátil 1
+1990,1,Núcleo de alto valor
+1994,1,Núcleo de alto valor
+1996,2,Cola volátil 2
+1998,5,Emergentes de crecimiento
+1999,4,Cola volátil 1
+2001,2,Cola volátil 2
+2002,4,Cola volátil 1
+2009,2,Cola volátil 2
+2038,5,Emergentes de crecimiento
+2050,1,Núcleo de alto valor
+2054,5,Emergentes de crecimiento
+2057,2,Cola volátil 2
+2066,2,Cola volátil 2
+2069,2,Cola volátil 2
+2075,2,Cola volátil 2
+2083,1,Núcleo de alto valor
+2084,2,Cola volátil 2
+2087,2,Cola volátil 2
+2107,5,Emergentes de crecimiento
+2115,2,Cola volátil 2
+2118,2,Cola volátil 2
+2126,4,Cola volátil 1
+2128,2,Cola volátil 2
+2141,1,Núcleo de alto valor
+2145,5,Emergentes de crecimiento
+2146,2,Cola volátil 2
+2147,2,Cola volátil 2
+2148,4,Cola volátil 1
+2151,2,Cola volátil 2
+2158,4,Cola volátil 1
+2165,2,Cola volátil 2
+2169,2,Cola volátil 2
+2174,1,Núcleo de alto valor
+2178,4,Cola volátil 1
+2182,3,Cola volátil 3
+2183,2,Cola volátil 2
+2189,4,Cola volátil 1
+2199,4,Cola volátil 1
+2201,4,Cola volátil 1
+2203,2,Cola volátil 2
+2213,2,Cola volátil 2
+2225,2,Cola volátil 2
+2227,2,Cola volátil 2
+2236,2,Cola volátil 2
+2237,2,Cola volátil 2
+2248,1,Núcleo de alto valor
+2249,2,Cola volátil 2
+2260,5,Emergentes de crecimiento
+2261,2,Cola volátil 2
+2263,4,Cola volátil 1
+2265,5,Emergentes de crecimiento
+2267,2,Cola volátil 2
+2268,4,Cola volátil 1
+2271,5,Emergentes de crecimiento
+2278,3,Cola volátil 3
+2286,2,Cola volátil 2
+2295,1,Núcleo de alto valor
+2301,4,Cola volátil 1
+2312,2,Cola volátil 2
+2313,1,Núcleo de alto valor
+2314,1,Núcleo de alto valor
+2315,2,Cola volátil 2
+2321,1,Núcleo de alto valor
+2325,4,Cola volátil 1
+2328,2,Cola volátil 2
+2330,1,Núcleo de alto valor
+2331,4,Cola volátil 1
+2335,4,Cola volátil 1
+2343,4,Cola volátil 1
+2349,4,Cola volátil 1
+2351,3,Cola volátil 3
+2353,2,Cola volátil 2
+2365,1,Núcleo de alto valor
+2366,5,Emergentes de crecimiento
+2372,1,Núcleo de alto valor
+2381,1,Núcleo de alto valor
+2385,2,Cola volátil 2
+2388,1,Núcleo de alto valor
+2389,5,Emergentes de crecimiento
+2392,2,Cola volátil 2
+2393,4,Cola volátil 1
+2396,2,Cola volátil 2
+2404,5,Emergentes de crecimiento
+2411,4,Cola volátil 1
+2416,2,Cola volátil 2
+2426,2,Cola volátil 2
+2432,4,Cola volátil 1
+2436,2,Cola volátil 2
+2437,1,Núcleo de alto valor
+2439,1,Núcleo de alto valor
+2449,3,Cola volátil 3
+2460,1,Núcleo de alto valor
+2461,5,Emergentes de crecimiento
+2463,4,Cola volátil 1
+2465,1,Núcleo de alto valor
+2467,5,Emergentes de crecimiento
+2488,1,Núcleo de alto valor
+2490,2,Cola volátil 2
+2493,1,Núcleo de alto valor
+2507,1,Núcleo de alto valor
+2515,4,Cola volátil 1
+2520,1,Núcleo de alto valor
+2521,1,Núcleo de alto valor
+2524,2,Cola volátil 2
+2528,4,Cola volátil 1
+2539,1,Núcleo de alto valor
+2541,3,Cola volátil 3
+2543,4,Cola volátil 1
+2551,1,Núcleo de alto valor
+2555,1,Núcleo de alto valor
+2563,3,Cola volátil 3
+2573,1,Núcleo de alto valor
+2575,4,Cola volátil 1
+2579,1,Núcleo de alto valor
+2582,1,Núcleo de alto valor
+2584,4,Cola volátil 1
+2595,5,Emergentes de crecimiento
+2596,2,Cola volátil 2
+2598,1,Núcleo de alto valor
+2599,4,Cola volátil 1
+2601,1,Núcleo de alto valor
+2603,2,Cola volátil 2
+2606,4,Cola volátil 1
+2612,1,Núcleo de alto valor
+2614,3,Cola volátil 3
+2618,1,Núcleo de alto valor
+2623,5,Emergentes de crecimiento
+2629,1,Núcleo de alto valor
+2640,1,Núcleo de alto valor
+2641,4,Cola volátil 1
+2661,2,Cola volátil 2
+2664,1,Núcleo de alto valor

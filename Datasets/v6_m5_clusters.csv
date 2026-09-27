@@ -1,0 +1,1827 @@
+sku,cluster,nombre
+FOODS_1_001,1,Núcleo de alto valor
+FOODS_1_002,3,Cola volátil 2
+FOODS_1_003,1,Núcleo de alto valor
+FOODS_1_005,2,Cola volátil 1
+FOODS_1_006,3,Cola volátil 2
+FOODS_1_008,2,Cola volátil 1
+FOODS_1_010,1,Núcleo de alto valor
+FOODS_1_011,2,Cola volátil 1
+FOODS_1_012,1,Núcleo de alto valor
+FOODS_1_013,4,Emergentes de crecimiento
+FOODS_1_015,2,Cola volátil 1
+FOODS_1_016,1,Núcleo de alto valor
+FOODS_1_018,1,Núcleo de alto valor
+FOODS_1_019,1,Núcleo de alto valor
+FOODS_1_020,2,Cola volátil 1
+FOODS_1_023,1,Núcleo de alto valor
+FOODS_1_024,3,Cola volátil 2
+FOODS_1_026,3,Cola volátil 2
+FOODS_1_029,2,Cola volátil 1
+FOODS_1_030,2,Cola volátil 1
+FOODS_1_031,2,Cola volátil 1
+FOODS_1_032,2,Cola volátil 1
+FOODS_1_034,1,Núcleo de alto valor
+FOODS_1_035,4,Emergentes de crecimiento
+FOODS_1_036,1,Núcleo de alto valor
+FOODS_1_037,2,Cola volátil 1
+FOODS_1_038,3,Cola volátil 2
+FOODS_1_040,2,Cola volátil 1
+FOODS_1_041,4,Emergentes de crecimiento
+FOODS_1_043,1,Núcleo de alto valor
+FOODS_1_044,1,Núcleo de alto valor
+FOODS_1_045,2,Cola volátil 1
+FOODS_1_046,1,Núcleo de alto valor
+FOODS_1_047,2,Cola volátil 1
+FOODS_1_048,1,Núcleo de alto valor
+FOODS_1_049,4,Emergentes de crecimiento
+FOODS_1_050,1,Núcleo de alto valor
+FOODS_1_053,1,Núcleo de alto valor
+FOODS_1_054,1,Núcleo de alto valor
+FOODS_1_055,2,Cola volátil 1
+FOODS_1_058,1,Núcleo de alto valor
+FOODS_1_061,1,Núcleo de alto valor
+FOODS_1_062,1,Núcleo de alto valor
+FOODS_1_063,3,Cola volátil 2
+FOODS_1_064,1,Núcleo de alto valor
+FOODS_1_065,2,Cola volátil 1
+FOODS_1_066,3,Cola volátil 2
+FOODS_1_067,1,Núcleo de alto valor
+FOODS_1_069,2,Cola volátil 1
+FOODS_1_072,2,Cola volátil 1
+FOODS_1_073,1,Núcleo de alto valor
+FOODS_1_074,4,Emergentes de crecimiento
+FOODS_1_075,2,Cola volátil 1
+FOODS_1_076,1,Núcleo de alto valor
+FOODS_1_079,3,Cola volátil 2
+FOODS_1_080,4,Emergentes de crecimiento
+FOODS_1_081,1,Núcleo de alto valor
+FOODS_1_083,1,Núcleo de alto valor
+FOODS_1_084,4,Emergentes de crecimiento
+FOODS_1_085,1,Núcleo de alto valor
+FOODS_1_086,1,Núcleo de alto valor
+FOODS_1_087,1,Núcleo de alto valor
+FOODS_1_088,3,Cola volátil 2
+FOODS_1_090,2,Cola volátil 1
+FOODS_1_091,2,Cola volátil 1
+FOODS_1_093,1,Núcleo de alto valor
+FOODS_1_094,2,Cola volátil 1
+FOODS_1_095,3,Cola volátil 2
+FOODS_1_096,4,Emergentes de crecimiento
+FOODS_1_101,4,Emergentes de crecimiento
+FOODS_1_102,1,Núcleo de alto valor
+FOODS_1_103,1,Núcleo de alto valor
+FOODS_1_104,2,Cola volátil 1
+FOODS_1_105,2,Cola volátil 1
+FOODS_1_106,2,Cola volátil 1
+FOODS_1_107,4,Emergentes de crecimiento
+FOODS_1_108,3,Cola volátil 2
+FOODS_1_110,1,Núcleo de alto valor
+FOODS_1_112,2,Cola volátil 1
+FOODS_1_114,2,Cola volátil 1
+FOODS_1_116,2,Cola volátil 1
+FOODS_1_117,2,Cola volátil 1
+FOODS_1_119,2,Cola volátil 1
+FOODS_1_120,1,Núcleo de alto valor
+FOODS_1_121,1,Núcleo de alto valor
+FOODS_1_123,2,Cola volátil 1
+FOODS_1_124,2,Cola volátil 1
+FOODS_1_127,1,Núcleo de alto valor
+FOODS_1_128,3,Cola volátil 2
+FOODS_1_129,1,Núcleo de alto valor
+FOODS_1_130,1,Núcleo de alto valor
+FOODS_1_133,2,Cola volátil 1
+FOODS_1_135,2,Cola volátil 1
+FOODS_1_136,1,Núcleo de alto valor
+FOODS_1_137,1,Núcleo de alto valor
+FOODS_1_138,2,Cola volátil 1
+FOODS_1_140,3,Cola volátil 2
+FOODS_1_141,2,Cola volátil 1
+FOODS_1_142,3,Cola volátil 2
+FOODS_1_143,3,Cola volátil 2
+FOODS_1_144,2,Cola volátil 1
+FOODS_1_146,4,Emergentes de crecimiento
+FOODS_1_150,2,Cola volátil 1
+FOODS_1_152,3,Cola volátil 2
+FOODS_1_153,1,Núcleo de alto valor
+FOODS_1_154,4,Emergentes de crecimiento
+FOODS_1_158,1,Núcleo de alto valor
+FOODS_1_161,3,Cola volátil 2
+FOODS_1_164,1,Núcleo de alto valor
+FOODS_1_166,2,Cola volátil 1
+FOODS_1_167,1,Núcleo de alto valor
+FOODS_1_168,1,Núcleo de alto valor
+FOODS_1_170,1,Núcleo de alto valor
+FOODS_1_172,1,Núcleo de alto valor
+FOODS_1_173,1,Núcleo de alto valor
+FOODS_1_174,2,Cola volátil 1
+FOODS_1_176,2,Cola volátil 1
+FOODS_1_177,1,Núcleo de alto valor
+FOODS_1_178,3,Cola volátil 2
+FOODS_1_180,3,Cola volátil 2
+FOODS_1_183,1,Núcleo de alto valor
+FOODS_1_184,1,Núcleo de alto valor
+FOODS_1_185,3,Cola volátil 2
+FOODS_1_187,3,Cola volátil 2
+FOODS_1_191,1,Núcleo de alto valor
+FOODS_1_192,2,Cola volátil 1
+FOODS_1_194,1,Núcleo de alto valor
+FOODS_1_195,4,Emergentes de crecimiento
+FOODS_1_196,1,Núcleo de alto valor
+FOODS_1_197,2,Cola volátil 1
+FOODS_1_198,2,Cola volátil 1
+FOODS_1_199,1,Núcleo de alto valor
+FOODS_1_201,2,Cola volátil 1
+FOODS_1_203,1,Núcleo de alto valor
+FOODS_1_206,3,Cola volátil 2
+FOODS_1_207,3,Cola volátil 2
+FOODS_1_209,2,Cola volátil 1
+FOODS_1_211,1,Núcleo de alto valor
+FOODS_1_213,2,Cola volátil 1
+FOODS_1_214,1,Núcleo de alto valor
+FOODS_1_216,3,Cola volátil 2
+FOODS_1_217,2,Cola volátil 1
+FOODS_1_218,1,Núcleo de alto valor
+FOODS_1_219,2,Cola volátil 1
+FOODS_2_001,1,Núcleo de alto valor
+FOODS_2_003,2,Cola volátil 1
+FOODS_2_005,3,Cola volátil 2
+FOODS_2_009,2,Cola volátil 1
+FOODS_2_010,4,Emergentes de crecimiento
+FOODS_2_011,3,Cola volátil 2
+FOODS_2_012,3,Cola volátil 2
+FOODS_2_013,1,Núcleo de alto valor
+FOODS_2_014,3,Cola volátil 2
+FOODS_2_016,1,Núcleo de alto valor
+FOODS_2_018,4,Emergentes de crecimiento
+FOODS_2_019,1,Núcleo de alto valor
+FOODS_2_020,3,Cola volátil 2
+FOODS_2_022,4,Emergentes de crecimiento
+FOODS_2_024,2,Cola volátil 1
+FOODS_2_025,1,Núcleo de alto valor
+FOODS_2_026,1,Núcleo de alto valor
+FOODS_2_030,1,Núcleo de alto valor
+FOODS_2_031,4,Emergentes de crecimiento
+FOODS_2_032,4,Emergentes de crecimiento
+FOODS_2_034,3,Cola volátil 2
+FOODS_2_036,2,Cola volátil 1
+FOODS_2_037,1,Núcleo de alto valor
+FOODS_2_038,1,Núcleo de alto valor
+FOODS_2_041,4,Emergentes de crecimiento
+FOODS_2_042,4,Emergentes de crecimiento
+FOODS_2_043,3,Cola volátil 2
+FOODS_2_044,1,Núcleo de alto valor
+FOODS_2_047,1,Núcleo de alto valor
+FOODS_2_049,1,Núcleo de alto valor
+FOODS_2_051,2,Cola volátil 1
+FOODS_2_052,4,Emergentes de crecimiento
+FOODS_2_053,3,Cola volátil 2
+FOODS_2_054,1,Núcleo de alto valor
+FOODS_2_055,3,Cola volátil 2
+FOODS_2_056,4,Emergentes de crecimiento
+FOODS_2_058,1,Núcleo de alto valor
+FOODS_2_059,1,Núcleo de alto valor
+FOODS_2_060,1,Núcleo de alto valor
+FOODS_2_061,1,Núcleo de alto valor
+FOODS_2_062,1,Núcleo de alto valor
+FOODS_2_064,1,Núcleo de alto valor
+FOODS_2_065,1,Núcleo de alto valor
+FOODS_2_066,1,Núcleo de alto valor
+FOODS_2_067,2,Cola volátil 1
+FOODS_2_068,4,Emergentes de crecimiento
+FOODS_2_072,3,Cola volátil 2
+FOODS_2_075,2,Cola volátil 1
+FOODS_2_076,2,Cola volátil 1
+FOODS_2_079,1,Núcleo de alto valor
+FOODS_2_080,4,Emergentes de crecimiento
+FOODS_2_081,2,Cola volátil 1
+FOODS_2_082,3,Cola volátil 2
+FOODS_2_083,2,Cola volátil 1
+FOODS_2_085,4,Emergentes de crecimiento
+FOODS_2_086,1,Núcleo de alto valor
+FOODS_2_087,2,Cola volátil 1
+FOODS_2_088,3,Cola volátil 2
+FOODS_2_092,2,Cola volátil 1
+FOODS_2_093,2,Cola volátil 1
+FOODS_2_100,1,Núcleo de alto valor
+FOODS_2_101,1,Núcleo de alto valor
+FOODS_2_103,4,Emergentes de crecimiento
+FOODS_2_107,3,Cola volátil 2
+FOODS_2_109,1,Núcleo de alto valor
+FOODS_2_111,2,Cola volátil 1
+FOODS_2_116,3,Cola volátil 2
+FOODS_2_118,2,Cola volátil 1
+FOODS_2_119,1,Núcleo de alto valor
+FOODS_2_124,3,Cola volátil 2
+FOODS_2_126,4,Emergentes de crecimiento
+FOODS_2_127,1,Núcleo de alto valor
+FOODS_2_128,2,Cola volátil 1
+FOODS_2_133,3,Cola volátil 2
+FOODS_2_134,1,Núcleo de alto valor
+FOODS_2_135,1,Núcleo de alto valor
+FOODS_2_136,1,Núcleo de alto valor
+FOODS_2_137,3,Cola volátil 2
+FOODS_2_138,3,Cola volátil 2
+FOODS_2_139,1,Núcleo de alto valor
+FOODS_2_141,4,Emergentes de crecimiento
+FOODS_2_143,1,Núcleo de alto valor
+FOODS_2_144,2,Cola volátil 1
+FOODS_2_146,3,Cola volátil 2
+FOODS_2_148,1,Núcleo de alto valor
+FOODS_2_149,4,Emergentes de crecimiento
+FOODS_2_150,1,Núcleo de alto valor
+FOODS_2_152,3,Cola volátil 2
+FOODS_2_153,3,Cola volátil 2
+FOODS_2_154,4,Emergentes de crecimiento
+FOODS_2_156,2,Cola volátil 1
+FOODS_2_157,3,Cola volátil 2
+FOODS_2_160,3,Cola volátil 2
+FOODS_2_161,1,Núcleo de alto valor
+FOODS_2_163,3,Cola volátil 2
+FOODS_2_164,1,Núcleo de alto valor
+FOODS_2_166,4,Emergentes de crecimiento
+FOODS_2_167,3,Cola volátil 2
+FOODS_2_170,2,Cola volátil 1
+FOODS_2_171,1,Núcleo de alto valor
+FOODS_2_173,1,Núcleo de alto valor
+FOODS_2_174,1,Núcleo de alto valor
+FOODS_2_176,1,Núcleo de alto valor
+FOODS_2_177,1,Núcleo de alto valor
+FOODS_2_181,1,Núcleo de alto valor
+FOODS_2_182,3,Cola volátil 2
+FOODS_2_183,1,Núcleo de alto valor
+FOODS_2_184,4,Emergentes de crecimiento
+FOODS_2_188,3,Cola volátil 2
+FOODS_2_189,2,Cola volátil 1
+FOODS_2_190,3,Cola volátil 2
+FOODS_2_192,3,Cola volátil 2
+FOODS_2_194,2,Cola volátil 1
+FOODS_2_195,3,Cola volátil 2
+FOODS_2_196,1,Núcleo de alto valor
+FOODS_2_197,1,Núcleo de alto valor
+FOODS_2_198,4,Emergentes de crecimiento
+FOODS_2_199,3,Cola volátil 2
+FOODS_2_202,1,Núcleo de alto valor
+FOODS_2_204,1,Núcleo de alto valor
+FOODS_2_205,1,Núcleo de alto valor
+FOODS_2_207,4,Emergentes de crecimiento
+FOODS_2_208,4,Emergentes de crecimiento
+FOODS_2_211,1,Núcleo de alto valor
+FOODS_2_212,2,Cola volátil 1
+FOODS_2_216,4,Emergentes de crecimiento
+FOODS_2_218,3,Cola volátil 2
+FOODS_2_219,3,Cola volátil 2
+FOODS_2_220,3,Cola volátil 2
+FOODS_2_223,2,Cola volátil 1
+FOODS_2_224,1,Núcleo de alto valor
+FOODS_2_225,2,Cola volátil 1
+FOODS_2_230,4,Emergentes de crecimiento
+FOODS_2_231,3,Cola volátil 2
+FOODS_2_232,1,Núcleo de alto valor
+FOODS_2_233,1,Núcleo de alto valor
+FOODS_2_234,1,Núcleo de alto valor
+FOODS_2_235,3,Cola volátil 2
+FOODS_2_236,2,Cola volátil 1
+FOODS_2_237,1,Núcleo de alto valor
+FOODS_2_240,2,Cola volátil 1
+FOODS_2_242,2,Cola volátil 1
+FOODS_2_243,4,Emergentes de crecimiento
+FOODS_2_244,2,Cola volátil 1
+FOODS_2_245,1,Núcleo de alto valor
+FOODS_2_247,1,Núcleo de alto valor
+FOODS_2_248,4,Emergentes de crecimiento
+FOODS_2_251,1,Núcleo de alto valor
+FOODS_2_258,2,Cola volátil 1
+FOODS_2_260,2,Cola volátil 1
+FOODS_2_261,1,Núcleo de alto valor
+FOODS_2_262,3,Cola volátil 2
+FOODS_2_263,2,Cola volátil 1
+FOODS_2_264,4,Emergentes de crecimiento
+FOODS_2_267,1,Núcleo de alto valor
+FOODS_2_273,1,Núcleo de alto valor
+FOODS_2_274,4,Emergentes de crecimiento
+FOODS_2_275,1,Núcleo de alto valor
+FOODS_2_276,1,Núcleo de alto valor
+FOODS_2_280,4,Emergentes de crecimiento
+FOODS_2_281,4,Emergentes de crecimiento
+FOODS_2_282,2,Cola volátil 1
+FOODS_2_283,2,Cola volátil 1
+FOODS_2_284,3,Cola volátil 2
+FOODS_2_285,1,Núcleo de alto valor
+FOODS_2_288,3,Cola volátil 2
+FOODS_2_289,2,Cola volátil 1
+FOODS_2_291,4,Emergentes de crecimiento
+FOODS_2_293,1,Núcleo de alto valor
+FOODS_2_294,2,Cola volátil 1
+FOODS_2_295,1,Núcleo de alto valor
+FOODS_2_297,2,Cola volátil 1
+FOODS_2_298,1,Núcleo de alto valor
+FOODS_2_299,1,Núcleo de alto valor
+FOODS_2_303,2,Cola volátil 1
+FOODS_2_304,2,Cola volátil 1
+FOODS_2_305,2,Cola volátil 1
+FOODS_2_306,1,Núcleo de alto valor
+FOODS_2_308,3,Cola volátil 2
+FOODS_2_309,1,Núcleo de alto valor
+FOODS_2_311,2,Cola volátil 1
+FOODS_2_313,1,Núcleo de alto valor
+FOODS_2_314,1,Núcleo de alto valor
+FOODS_2_315,2,Cola volátil 1
+FOODS_2_317,1,Núcleo de alto valor
+FOODS_2_319,3,Cola volátil 2
+FOODS_2_321,1,Núcleo de alto valor
+FOODS_2_322,1,Núcleo de alto valor
+FOODS_2_323,3,Cola volátil 2
+FOODS_2_325,1,Núcleo de alto valor
+FOODS_2_326,1,Núcleo de alto valor
+FOODS_2_327,1,Núcleo de alto valor
+FOODS_2_329,3,Cola volátil 2
+FOODS_2_330,1,Núcleo de alto valor
+FOODS_2_331,1,Núcleo de alto valor
+FOODS_2_332,3,Cola volátil 2
+FOODS_2_333,1,Núcleo de alto valor
+FOODS_2_335,3,Cola volátil 2
+FOODS_2_336,2,Cola volátil 1
+FOODS_2_339,2,Cola volátil 1
+FOODS_2_340,1,Núcleo de alto valor
+FOODS_2_342,1,Núcleo de alto valor
+FOODS_2_343,3,Cola volátil 2
+FOODS_2_344,3,Cola volátil 2
+FOODS_2_347,1,Núcleo de alto valor
+FOODS_2_348,3,Cola volátil 2
+FOODS_2_351,1,Núcleo de alto valor
+FOODS_2_353,3,Cola volátil 2
+FOODS_2_356,2,Cola volátil 1
+FOODS_2_357,1,Núcleo de alto valor
+FOODS_2_358,3,Cola volátil 2
+FOODS_2_359,3,Cola volátil 2
+FOODS_2_360,2,Cola volátil 1
+FOODS_2_361,3,Cola volátil 2
+FOODS_2_364,2,Cola volátil 1
+FOODS_2_366,3,Cola volátil 2
+FOODS_2_367,1,Núcleo de alto valor
+FOODS_2_368,1,Núcleo de alto valor
+FOODS_2_370,2,Cola volátil 1
+FOODS_2_371,1,Núcleo de alto valor
+FOODS_2_373,1,Núcleo de alto valor
+FOODS_2_374,3,Cola volátil 2
+FOODS_2_375,1,Núcleo de alto valor
+FOODS_2_376,1,Núcleo de alto valor
+FOODS_2_378,4,Emergentes de crecimiento
+FOODS_2_380,1,Núcleo de alto valor
+FOODS_2_381,2,Cola volátil 1
+FOODS_2_382,2,Cola volátil 1
+FOODS_2_384,1,Núcleo de alto valor
+FOODS_2_388,1,Núcleo de alto valor
+FOODS_2_389,4,Emergentes de crecimiento
+FOODS_2_391,1,Núcleo de alto valor
+FOODS_2_392,1,Núcleo de alto valor
+FOODS_2_394,1,Núcleo de alto valor
+FOODS_2_396,1,Núcleo de alto valor
+FOODS_2_397,2,Cola volátil 1
+FOODS_2_398,4,Emergentes de crecimiento
+FOODS_2_399,1,Núcleo de alto valor
+FOODS_3_001,2,Cola volátil 1
+FOODS_3_005,1,Núcleo de alto valor
+FOODS_3_007,3,Cola volátil 2
+FOODS_3_011,1,Núcleo de alto valor
+FOODS_3_012,2,Cola volátil 1
+FOODS_3_013,2,Cola volátil 1
+FOODS_3_014,1,Núcleo de alto valor
+FOODS_3_015,3,Cola volátil 2
+FOODS_3_017,3,Cola volátil 2
+FOODS_3_019,3,Cola volátil 2
+FOODS_3_020,2,Cola volátil 1
+FOODS_3_021,1,Núcleo de alto valor
+FOODS_3_023,1,Núcleo de alto valor
+FOODS_3_025,1,Núcleo de alto valor
+FOODS_3_026,1,Núcleo de alto valor
+FOODS_3_028,2,Cola volátil 1
+FOODS_3_029,2,Cola volátil 1
+FOODS_3_030,2,Cola volátil 1
+FOODS_3_031,1,Núcleo de alto valor
+FOODS_3_035,1,Núcleo de alto valor
+FOODS_3_039,1,Núcleo de alto valor
+FOODS_3_041,1,Núcleo de alto valor
+FOODS_3_042,3,Cola volátil 2
+FOODS_3_045,1,Núcleo de alto valor
+FOODS_3_050,1,Núcleo de alto valor
+FOODS_3_054,1,Núcleo de alto valor
+FOODS_3_059,2,Cola volátil 1
+FOODS_3_062,2,Cola volátil 1
+FOODS_3_063,1,Núcleo de alto valor
+FOODS_3_064,1,Núcleo de alto valor
+FOODS_3_065,1,Núcleo de alto valor
+FOODS_3_067,1,Núcleo de alto valor
+FOODS_3_076,1,Núcleo de alto valor
+FOODS_3_078,4,Emergentes de crecimiento
+FOODS_3_079,1,Núcleo de alto valor
+FOODS_3_080,1,Núcleo de alto valor
+FOODS_3_081,1,Núcleo de alto valor
+FOODS_3_082,1,Núcleo de alto valor
+FOODS_3_083,4,Emergentes de crecimiento
+FOODS_3_086,1,Núcleo de alto valor
+FOODS_3_089,1,Núcleo de alto valor
+FOODS_3_090,1,Núcleo de alto valor
+FOODS_3_091,4,Emergentes de crecimiento
+FOODS_3_092,1,Núcleo de alto valor
+FOODS_3_093,2,Cola volátil 1
+FOODS_3_095,3,Cola volátil 2
+FOODS_3_096,1,Núcleo de alto valor
+FOODS_3_097,3,Cola volátil 2
+FOODS_3_098,1,Núcleo de alto valor
+FOODS_3_099,1,Núcleo de alto valor
+FOODS_3_100,1,Núcleo de alto valor
+FOODS_3_101,1,Núcleo de alto valor
+FOODS_3_102,1,Núcleo de alto valor
+FOODS_3_103,3,Cola volátil 2
+FOODS_3_104,1,Núcleo de alto valor
+FOODS_3_107,4,Emergentes de crecimiento
+FOODS_3_108,1,Núcleo de alto valor
+FOODS_3_109,3,Cola volátil 2
+FOODS_3_112,1,Núcleo de alto valor
+FOODS_3_113,1,Núcleo de alto valor
+FOODS_3_115,1,Núcleo de alto valor
+FOODS_3_116,2,Cola volátil 1
+FOODS_3_118,2,Cola volátil 1
+FOODS_3_120,1,Núcleo de alto valor
+FOODS_3_123,4,Emergentes de crecimiento
+FOODS_3_124,1,Núcleo de alto valor
+FOODS_3_126,1,Núcleo de alto valor
+FOODS_3_127,1,Núcleo de alto valor
+FOODS_3_128,2,Cola volátil 1
+FOODS_3_130,2,Cola volátil 1
+FOODS_3_131,1,Núcleo de alto valor
+FOODS_3_132,1,Núcleo de alto valor
+FOODS_3_133,1,Núcleo de alto valor
+FOODS_3_134,2,Cola volátil 1
+FOODS_3_135,4,Emergentes de crecimiento
+FOODS_3_136,1,Núcleo de alto valor
+FOODS_3_138,1,Núcleo de alto valor
+FOODS_3_139,3,Cola volátil 2
+FOODS_3_140,1,Núcleo de alto valor
+FOODS_3_141,2,Cola volátil 1
+FOODS_3_142,1,Núcleo de alto valor
+FOODS_3_144,1,Núcleo de alto valor
+FOODS_3_145,1,Núcleo de alto valor
+FOODS_3_146,1,Núcleo de alto valor
+FOODS_3_148,2,Cola volátil 1
+FOODS_3_150,2,Cola volátil 1
+FOODS_3_151,2,Cola volátil 1
+FOODS_3_154,2,Cola volátil 1
+FOODS_3_155,1,Núcleo de alto valor
+FOODS_3_156,1,Núcleo de alto valor
+FOODS_3_160,4,Emergentes de crecimiento
+FOODS_3_161,3,Cola volátil 2
+FOODS_3_162,1,Núcleo de alto valor
+FOODS_3_163,3,Cola volátil 2
+FOODS_3_165,3,Cola volátil 2
+FOODS_3_168,1,Núcleo de alto valor
+FOODS_3_169,1,Núcleo de alto valor
+FOODS_3_174,1,Núcleo de alto valor
+FOODS_3_175,2,Cola volátil 1
+FOODS_3_177,2,Cola volátil 1
+FOODS_3_178,1,Núcleo de alto valor
+FOODS_3_179,1,Núcleo de alto valor
+FOODS_3_181,1,Núcleo de alto valor
+FOODS_3_182,1,Núcleo de alto valor
+FOODS_3_183,1,Núcleo de alto valor
+FOODS_3_184,1,Núcleo de alto valor
+FOODS_3_187,2,Cola volátil 1
+FOODS_3_188,3,Cola volátil 2
+FOODS_3_191,1,Núcleo de alto valor
+FOODS_3_193,3,Cola volátil 2
+FOODS_3_194,3,Cola volátil 2
+FOODS_3_195,1,Núcleo de alto valor
+FOODS_3_196,1,Núcleo de alto valor
+FOODS_3_199,2,Cola volátil 1
+FOODS_3_200,1,Núcleo de alto valor
+FOODS_3_201,1,Núcleo de alto valor
+FOODS_3_202,1,Núcleo de alto valor
+FOODS_3_203,3,Cola volátil 2
+FOODS_3_206,2,Cola volátil 1
+FOODS_3_207,1,Núcleo de alto valor
+FOODS_3_211,3,Cola volátil 2
+FOODS_3_212,1,Núcleo de alto valor
+FOODS_3_213,1,Núcleo de alto valor
+FOODS_3_214,2,Cola volátil 1
+FOODS_3_215,1,Núcleo de alto valor
+FOODS_3_217,1,Núcleo de alto valor
+FOODS_3_219,2,Cola volátil 1
+FOODS_3_222,1,Núcleo de alto valor
+FOODS_3_223,1,Núcleo de alto valor
+FOODS_3_224,2,Cola volátil 1
+FOODS_3_225,1,Núcleo de alto valor
+FOODS_3_226,1,Núcleo de alto valor
+FOODS_3_227,1,Núcleo de alto valor
+FOODS_3_228,1,Núcleo de alto valor
+FOODS_3_230,1,Núcleo de alto valor
+FOODS_3_231,1,Núcleo de alto valor
+FOODS_3_232,1,Núcleo de alto valor
+FOODS_3_234,1,Núcleo de alto valor
+FOODS_3_238,1,Núcleo de alto valor
+FOODS_3_239,3,Cola volátil 2
+FOODS_3_241,2,Cola volátil 1
+FOODS_3_242,1,Núcleo de alto valor
+FOODS_3_243,1,Núcleo de alto valor
+FOODS_3_244,3,Cola volátil 2
+FOODS_3_245,1,Núcleo de alto valor
+FOODS_3_246,2,Cola volátil 1
+FOODS_3_248,2,Cola volátil 1
+FOODS_3_249,2,Cola volátil 1
+FOODS_3_250,1,Núcleo de alto valor
+FOODS_3_251,1,Núcleo de alto valor
+FOODS_3_252,1,Núcleo de alto valor
+FOODS_3_256,3,Cola volátil 2
+FOODS_3_257,1,Núcleo de alto valor
+FOODS_3_258,1,Núcleo de alto valor
+FOODS_3_259,1,Núcleo de alto valor
+FOODS_3_261,2,Cola volátil 1
+FOODS_3_263,2,Cola volátil 1
+FOODS_3_264,1,Núcleo de alto valor
+FOODS_3_265,1,Núcleo de alto valor
+FOODS_3_266,2,Cola volátil 1
+FOODS_3_267,3,Cola volátil 2
+FOODS_3_268,1,Núcleo de alto valor
+FOODS_3_269,1,Núcleo de alto valor
+FOODS_3_271,1,Núcleo de alto valor
+FOODS_3_273,3,Cola volátil 2
+FOODS_3_274,1,Núcleo de alto valor
+FOODS_3_276,1,Núcleo de alto valor
+FOODS_3_279,2,Cola volátil 1
+FOODS_3_280,1,Núcleo de alto valor
+FOODS_3_281,2,Cola volátil 1
+FOODS_3_283,2,Cola volátil 1
+FOODS_3_285,2,Cola volátil 1
+FOODS_3_286,1,Núcleo de alto valor
+FOODS_3_287,4,Emergentes de crecimiento
+FOODS_3_289,2,Cola volátil 1
+FOODS_3_290,1,Núcleo de alto valor
+FOODS_3_291,1,Núcleo de alto valor
+FOODS_3_293,1,Núcleo de alto valor
+FOODS_3_294,3,Cola volátil 2
+FOODS_3_295,1,Núcleo de alto valor
+FOODS_3_298,4,Emergentes de crecimiento
+FOODS_3_300,1,Núcleo de alto valor
+FOODS_3_301,2,Cola volátil 1
+FOODS_3_302,1,Núcleo de alto valor
+FOODS_3_303,1,Núcleo de alto valor
+FOODS_3_304,1,Núcleo de alto valor
+FOODS_3_305,1,Núcleo de alto valor
+FOODS_3_307,1,Núcleo de alto valor
+FOODS_3_308,1,Núcleo de alto valor
+FOODS_3_309,1,Núcleo de alto valor
+FOODS_3_310,1,Núcleo de alto valor
+FOODS_3_311,1,Núcleo de alto valor
+FOODS_3_313,1,Núcleo de alto valor
+FOODS_3_314,4,Emergentes de crecimiento
+FOODS_3_317,2,Cola volátil 1
+FOODS_3_318,2,Cola volátil 1
+FOODS_3_319,2,Cola volátil 1
+FOODS_3_324,1,Núcleo de alto valor
+FOODS_3_326,2,Cola volátil 1
+FOODS_3_327,1,Núcleo de alto valor
+FOODS_3_328,2,Cola volátil 1
+FOODS_3_330,1,Núcleo de alto valor
+FOODS_3_331,1,Núcleo de alto valor
+FOODS_3_332,1,Núcleo de alto valor
+FOODS_3_334,2,Cola volátil 1
+FOODS_3_335,1,Núcleo de alto valor
+FOODS_3_336,4,Emergentes de crecimiento
+FOODS_3_339,1,Núcleo de alto valor
+FOODS_3_341,1,Núcleo de alto valor
+FOODS_3_342,2,Cola volátil 1
+FOODS_3_343,3,Cola volátil 2
+FOODS_3_345,1,Núcleo de alto valor
+FOODS_3_346,1,Núcleo de alto valor
+FOODS_3_347,2,Cola volátil 1
+FOODS_3_348,1,Núcleo de alto valor
+FOODS_3_349,1,Núcleo de alto valor
+FOODS_3_351,2,Cola volátil 1
+FOODS_3_352,1,Núcleo de alto valor
+FOODS_3_355,2,Cola volátil 1
+FOODS_3_356,1,Núcleo de alto valor
+FOODS_3_357,1,Núcleo de alto valor
+FOODS_3_360,1,Núcleo de alto valor
+FOODS_3_363,3,Cola volátil 2
+FOODS_3_365,1,Núcleo de alto valor
+FOODS_3_367,1,Núcleo de alto valor
+FOODS_3_368,1,Núcleo de alto valor
+FOODS_3_369,1,Núcleo de alto valor
+FOODS_3_376,1,Núcleo de alto valor
+FOODS_3_377,3,Cola volátil 2
+FOODS_3_378,3,Cola volátil 2
+FOODS_3_380,3,Cola volátil 2
+FOODS_3_383,2,Cola volátil 1
+FOODS_3_385,1,Núcleo de alto valor
+FOODS_3_387,2,Cola volátil 1
+FOODS_3_388,1,Núcleo de alto valor
+FOODS_3_389,1,Núcleo de alto valor
+FOODS_3_391,2,Cola volátil 1
+FOODS_3_392,1,Núcleo de alto valor
+FOODS_3_394,2,Cola volátil 1
+FOODS_3_395,1,Núcleo de alto valor
+FOODS_3_397,3,Cola volátil 2
+FOODS_3_398,4,Emergentes de crecimiento
+FOODS_3_400,1,Núcleo de alto valor
+FOODS_3_401,1,Núcleo de alto valor
+FOODS_3_402,1,Núcleo de alto valor
+FOODS_3_404,3,Cola volátil 2
+FOODS_3_405,3,Cola volátil 2
+FOODS_3_406,1,Núcleo de alto valor
+FOODS_3_407,1,Núcleo de alto valor
+FOODS_3_408,3,Cola volátil 2
+FOODS_3_410,3,Cola volátil 2
+FOODS_3_411,1,Núcleo de alto valor
+FOODS_3_412,3,Cola volátil 2
+FOODS_3_413,1,Núcleo de alto valor
+FOODS_3_415,2,Cola volátil 1
+FOODS_3_418,1,Núcleo de alto valor
+FOODS_3_420,2,Cola volátil 1
+FOODS_3_423,1,Núcleo de alto valor
+FOODS_3_424,2,Cola volátil 1
+FOODS_3_431,1,Núcleo de alto valor
+FOODS_3_432,2,Cola volátil 1
+FOODS_3_433,1,Núcleo de alto valor
+FOODS_3_434,1,Núcleo de alto valor
+FOODS_3_435,2,Cola volátil 1
+FOODS_3_438,1,Núcleo de alto valor
+FOODS_3_446,2,Cola volátil 1
+FOODS_3_448,1,Núcleo de alto valor
+FOODS_3_449,1,Núcleo de alto valor
+FOODS_3_450,1,Núcleo de alto valor
+FOODS_3_451,3,Cola volátil 2
+FOODS_3_452,2,Cola volátil 1
+FOODS_3_453,2,Cola volátil 1
+FOODS_3_454,1,Núcleo de alto valor
+FOODS_3_455,1,Núcleo de alto valor
+FOODS_3_458,1,Núcleo de alto valor
+FOODS_3_459,1,Núcleo de alto valor
+FOODS_3_460,2,Cola volátil 1
+FOODS_3_461,2,Cola volátil 1
+FOODS_3_462,3,Cola volátil 2
+FOODS_3_464,2,Cola volátil 1
+FOODS_3_467,2,Cola volátil 1
+FOODS_3_468,2,Cola volátil 1
+FOODS_3_469,1,Núcleo de alto valor
+FOODS_3_473,3,Cola volátil 2
+FOODS_3_474,1,Núcleo de alto valor
+FOODS_3_475,1,Núcleo de alto valor
+FOODS_3_476,1,Núcleo de alto valor
+FOODS_3_477,1,Núcleo de alto valor
+FOODS_3_479,3,Cola volátil 2
+FOODS_3_480,1,Núcleo de alto valor
+FOODS_3_481,2,Cola volátil 1
+FOODS_3_484,3,Cola volátil 2
+FOODS_3_485,3,Cola volátil 2
+FOODS_3_486,2,Cola volátil 1
+FOODS_3_487,4,Emergentes de crecimiento
+FOODS_3_488,1,Núcleo de alto valor
+FOODS_3_490,2,Cola volátil 1
+FOODS_3_491,1,Núcleo de alto valor
+FOODS_3_492,2,Cola volátil 1
+FOODS_3_493,2,Cola volátil 1
+FOODS_3_494,3,Cola volátil 2
+FOODS_3_495,3,Cola volátil 2
+FOODS_3_497,2,Cola volátil 1
+FOODS_3_498,3,Cola volátil 2
+FOODS_3_501,1,Núcleo de alto valor
+FOODS_3_503,1,Núcleo de alto valor
+FOODS_3_504,2,Cola volátil 1
+FOODS_3_506,1,Núcleo de alto valor
+FOODS_3_508,1,Núcleo de alto valor
+FOODS_3_513,3,Cola volátil 2
+FOODS_3_516,4,Emergentes de crecimiento
+FOODS_3_520,3,Cola volátil 2
+FOODS_3_522,4,Emergentes de crecimiento
+FOODS_3_524,3,Cola volátil 2
+FOODS_3_526,1,Núcleo de alto valor
+FOODS_3_528,2,Cola volátil 1
+FOODS_3_530,4,Emergentes de crecimiento
+FOODS_3_533,2,Cola volátil 1
+FOODS_3_534,1,Núcleo de alto valor
+FOODS_3_535,1,Núcleo de alto valor
+FOODS_3_536,3,Cola volátil 2
+FOODS_3_537,1,Núcleo de alto valor
+FOODS_3_539,3,Cola volátil 2
+FOODS_3_540,2,Cola volátil 1
+FOODS_3_541,2,Cola volátil 1
+FOODS_3_542,1,Núcleo de alto valor
+FOODS_3_543,3,Cola volátil 2
+FOODS_3_546,1,Núcleo de alto valor
+FOODS_3_547,3,Cola volátil 2
+FOODS_3_548,3,Cola volátil 2
+FOODS_3_551,1,Núcleo de alto valor
+FOODS_3_554,3,Cola volátil 2
+FOODS_3_555,1,Núcleo de alto valor
+FOODS_3_556,4,Emergentes de crecimiento
+FOODS_3_558,2,Cola volátil 1
+FOODS_3_559,1,Núcleo de alto valor
+FOODS_3_562,1,Núcleo de alto valor
+FOODS_3_565,1,Núcleo de alto valor
+FOODS_3_569,1,Núcleo de alto valor
+FOODS_3_570,1,Núcleo de alto valor
+FOODS_3_571,2,Cola volátil 1
+FOODS_3_574,1,Núcleo de alto valor
+FOODS_3_577,1,Núcleo de alto valor
+FOODS_3_578,1,Núcleo de alto valor
+FOODS_3_580,3,Cola volátil 2
+FOODS_3_581,3,Cola volátil 2
+FOODS_3_582,2,Cola volátil 1
+FOODS_3_584,1,Núcleo de alto valor
+FOODS_3_585,1,Núcleo de alto valor
+FOODS_3_586,1,Núcleo de alto valor
+FOODS_3_587,4,Emergentes de crecimiento
+FOODS_3_590,2,Cola volátil 1
+FOODS_3_591,3,Cola volátil 2
+FOODS_3_592,2,Cola volátil 1
+FOODS_3_593,4,Emergentes de crecimiento
+FOODS_3_594,2,Cola volátil 1
+FOODS_3_596,1,Núcleo de alto valor
+FOODS_3_605,4,Emergentes de crecimiento
+FOODS_3_607,1,Núcleo de alto valor
+FOODS_3_610,1,Núcleo de alto valor
+FOODS_3_611,4,Emergentes de crecimiento
+FOODS_3_612,1,Núcleo de alto valor
+FOODS_3_614,2,Cola volátil 1
+FOODS_3_615,1,Núcleo de alto valor
+FOODS_3_616,1,Núcleo de alto valor
+FOODS_3_617,3,Cola volátil 2
+FOODS_3_620,4,Emergentes de crecimiento
+FOODS_3_622,3,Cola volátil 2
+FOODS_3_625,1,Núcleo de alto valor
+FOODS_3_627,3,Cola volátil 2
+FOODS_3_628,1,Núcleo de alto valor
+FOODS_3_629,3,Cola volátil 2
+FOODS_3_630,4,Emergentes de crecimiento
+FOODS_3_631,3,Cola volátil 2
+FOODS_3_632,1,Núcleo de alto valor
+FOODS_3_634,1,Núcleo de alto valor
+FOODS_3_635,2,Cola volátil 1
+FOODS_3_644,4,Emergentes de crecimiento
+FOODS_3_645,2,Cola volátil 1
+FOODS_3_646,2,Cola volátil 1
+FOODS_3_648,3,Cola volátil 2
+FOODS_3_651,4,Emergentes de crecimiento
+FOODS_3_652,1,Núcleo de alto valor
+FOODS_3_654,1,Núcleo de alto valor
+FOODS_3_655,1,Núcleo de alto valor
+FOODS_3_656,2,Cola volátil 1
+FOODS_3_659,2,Cola volátil 1
+FOODS_3_660,2,Cola volátil 1
+FOODS_3_666,4,Emergentes de crecimiento
+FOODS_3_667,3,Cola volátil 2
+FOODS_3_668,1,Núcleo de alto valor
+FOODS_3_669,4,Emergentes de crecimiento
+FOODS_3_670,3,Cola volátil 2
+FOODS_3_671,1,Núcleo de alto valor
+FOODS_3_672,3,Cola volátil 2
+FOODS_3_674,1,Núcleo de alto valor
+FOODS_3_675,4,Emergentes de crecimiento
+FOODS_3_676,2,Cola volátil 1
+FOODS_3_677,1,Núcleo de alto valor
+FOODS_3_678,1,Núcleo de alto valor
+FOODS_3_679,1,Núcleo de alto valor
+FOODS_3_681,3,Cola volátil 2
+FOODS_3_685,2,Cola volátil 1
+FOODS_3_686,2,Cola volátil 1
+FOODS_3_687,1,Núcleo de alto valor
+FOODS_3_688,1,Núcleo de alto valor
+FOODS_3_692,1,Núcleo de alto valor
+FOODS_3_694,3,Cola volátil 2
+FOODS_3_695,1,Núcleo de alto valor
+FOODS_3_697,1,Núcleo de alto valor
+FOODS_3_700,4,Emergentes de crecimiento
+FOODS_3_702,1,Núcleo de alto valor
+FOODS_3_704,1,Núcleo de alto valor
+FOODS_3_705,2,Cola volátil 1
+FOODS_3_708,1,Núcleo de alto valor
+FOODS_3_711,3,Cola volátil 2
+FOODS_3_712,1,Núcleo de alto valor
+FOODS_3_714,1,Núcleo de alto valor
+FOODS_3_715,1,Núcleo de alto valor
+FOODS_3_716,3,Cola volátil 2
+FOODS_3_717,3,Cola volátil 2
+FOODS_3_718,2,Cola volátil 1
+FOODS_3_719,2,Cola volátil 1
+FOODS_3_721,1,Núcleo de alto valor
+FOODS_3_723,1,Núcleo de alto valor
+FOODS_3_724,1,Núcleo de alto valor
+FOODS_3_725,1,Núcleo de alto valor
+FOODS_3_727,2,Cola volátil 1
+FOODS_3_729,1,Núcleo de alto valor
+FOODS_3_730,3,Cola volátil 2
+FOODS_3_732,1,Núcleo de alto valor
+FOODS_3_734,1,Núcleo de alto valor
+FOODS_3_738,1,Núcleo de alto valor
+FOODS_3_741,1,Núcleo de alto valor
+FOODS_3_742,2,Cola volátil 1
+FOODS_3_744,1,Núcleo de alto valor
+FOODS_3_746,2,Cola volátil 1
+FOODS_3_748,1,Núcleo de alto valor
+FOODS_3_750,2,Cola volátil 1
+FOODS_3_752,1,Núcleo de alto valor
+FOODS_3_753,1,Núcleo de alto valor
+FOODS_3_755,2,Cola volátil 1
+FOODS_3_756,1,Núcleo de alto valor
+FOODS_3_757,2,Cola volátil 1
+FOODS_3_762,2,Cola volátil 1
+FOODS_3_763,4,Emergentes de crecimiento
+FOODS_3_765,3,Cola volátil 2
+FOODS_3_766,2,Cola volátil 1
+FOODS_3_767,2,Cola volátil 1
+FOODS_3_769,2,Cola volátil 1
+FOODS_3_772,1,Núcleo de alto valor
+FOODS_3_774,4,Emergentes de crecimiento
+FOODS_3_775,3,Cola volátil 2
+FOODS_3_778,3,Cola volátil 2
+FOODS_3_781,1,Núcleo de alto valor
+FOODS_3_782,1,Núcleo de alto valor
+FOODS_3_783,1,Núcleo de alto valor
+FOODS_3_784,2,Cola volátil 1
+FOODS_3_785,1,Núcleo de alto valor
+FOODS_3_786,1,Núcleo de alto valor
+FOODS_3_787,1,Núcleo de alto valor
+FOODS_3_788,2,Cola volátil 1
+FOODS_3_792,1,Núcleo de alto valor
+FOODS_3_793,3,Cola volátil 2
+FOODS_3_794,2,Cola volátil 1
+FOODS_3_797,1,Núcleo de alto valor
+FOODS_3_799,3,Cola volátil 2
+FOODS_3_800,2,Cola volátil 1
+FOODS_3_801,1,Núcleo de alto valor
+FOODS_3_802,3,Cola volátil 2
+FOODS_3_804,1,Núcleo de alto valor
+FOODS_3_805,3,Cola volátil 2
+FOODS_3_807,1,Núcleo de alto valor
+FOODS_3_808,2,Cola volátil 1
+FOODS_3_809,1,Núcleo de alto valor
+FOODS_3_811,1,Núcleo de alto valor
+FOODS_3_812,2,Cola volátil 1
+FOODS_3_814,1,Núcleo de alto valor
+FOODS_3_816,1,Núcleo de alto valor
+FOODS_3_817,2,Cola volátil 1
+FOODS_3_819,1,Núcleo de alto valor
+FOODS_3_820,1,Núcleo de alto valor
+FOODS_3_822,2,Cola volátil 1
+FOODS_3_824,4,Emergentes de crecimiento
+FOODS_3_825,1,Núcleo de alto valor
+HOBBIES_1_002,3,Cola volátil 2
+HOBBIES_1_004,1,Núcleo de alto valor
+HOBBIES_1_005,1,Núcleo de alto valor
+HOBBIES_1_008,1,Núcleo de alto valor
+HOBBIES_1_009,3,Cola volátil 2
+HOBBIES_1_010,1,Núcleo de alto valor
+HOBBIES_1_012,1,Núcleo de alto valor
+HOBBIES_1_014,1,Núcleo de alto valor
+HOBBIES_1_015,1,Núcleo de alto valor
+HOBBIES_1_016,1,Núcleo de alto valor
+HOBBIES_1_017,1,Núcleo de alto valor
+HOBBIES_1_019,1,Núcleo de alto valor
+HOBBIES_1_020,1,Núcleo de alto valor
+HOBBIES_1_021,1,Núcleo de alto valor
+HOBBIES_1_022,1,Núcleo de alto valor
+HOBBIES_1_023,1,Núcleo de alto valor
+HOBBIES_1_025,1,Núcleo de alto valor
+HOBBIES_1_028,1,Núcleo de alto valor
+HOBBIES_1_029,1,Núcleo de alto valor
+HOBBIES_1_031,1,Núcleo de alto valor
+HOBBIES_1_032,2,Cola volátil 1
+HOBBIES_1_034,1,Núcleo de alto valor
+HOBBIES_1_035,3,Cola volátil 2
+HOBBIES_1_036,3,Cola volátil 2
+HOBBIES_1_038,3,Cola volátil 2
+HOBBIES_1_041,1,Núcleo de alto valor
+HOBBIES_1_042,1,Núcleo de alto valor
+HOBBIES_1_043,1,Núcleo de alto valor
+HOBBIES_1_044,1,Núcleo de alto valor
+HOBBIES_1_047,1,Núcleo de alto valor
+HOBBIES_1_048,1,Núcleo de alto valor
+HOBBIES_1_049,2,Cola volátil 1
+HOBBIES_1_050,1,Núcleo de alto valor
+HOBBIES_1_052,3,Cola volátil 2
+HOBBIES_1_055,1,Núcleo de alto valor
+HOBBIES_1_058,1,Núcleo de alto valor
+HOBBIES_1_061,3,Cola volátil 2
+HOBBIES_1_063,1,Núcleo de alto valor
+HOBBIES_1_064,1,Núcleo de alto valor
+HOBBIES_1_067,2,Cola volátil 1
+HOBBIES_1_068,1,Núcleo de alto valor
+HOBBIES_1_069,1,Núcleo de alto valor
+HOBBIES_1_072,3,Cola volátil 2
+HOBBIES_1_073,3,Cola volátil 2
+HOBBIES_1_074,1,Núcleo de alto valor
+HOBBIES_1_075,1,Núcleo de alto valor
+HOBBIES_1_076,3,Cola volátil 2
+HOBBIES_1_078,1,Núcleo de alto valor
+HOBBIES_1_079,1,Núcleo de alto valor
+HOBBIES_1_080,2,Cola volátil 1
+HOBBIES_1_082,3,Cola volátil 2
+HOBBIES_1_084,2,Cola volátil 1
+HOBBIES_1_086,1,Núcleo de alto valor
+HOBBIES_1_088,3,Cola volátil 2
+HOBBIES_1_089,1,Núcleo de alto valor
+HOBBIES_1_092,3,Cola volátil 2
+HOBBIES_1_094,3,Cola volátil 2
+HOBBIES_1_095,1,Núcleo de alto valor
+HOBBIES_1_097,1,Núcleo de alto valor
+HOBBIES_1_100,1,Núcleo de alto valor
+HOBBIES_1_103,1,Núcleo de alto valor
+HOBBIES_1_105,1,Núcleo de alto valor
+HOBBIES_1_107,1,Núcleo de alto valor
+HOBBIES_1_108,1,Núcleo de alto valor
+HOBBIES_1_109,1,Núcleo de alto valor
+HOBBIES_1_110,3,Cola volátil 2
+HOBBIES_1_111,1,Núcleo de alto valor
+HOBBIES_1_117,3,Cola volátil 2
+HOBBIES_1_118,3,Cola volátil 2
+HOBBIES_1_120,1,Núcleo de alto valor
+HOBBIES_1_127,3,Cola volátil 2
+HOBBIES_1_128,3,Cola volátil 2
+HOBBIES_1_130,1,Núcleo de alto valor
+HOBBIES_1_132,2,Cola volátil 1
+HOBBIES_1_134,1,Núcleo de alto valor
+HOBBIES_1_137,2,Cola volátil 1
+HOBBIES_1_142,1,Núcleo de alto valor
+HOBBIES_1_143,1,Núcleo de alto valor
+HOBBIES_1_144,1,Núcleo de alto valor
+HOBBIES_1_145,3,Cola volátil 2
+HOBBIES_1_146,1,Núcleo de alto valor
+HOBBIES_1_147,1,Núcleo de alto valor
+HOBBIES_1_149,3,Cola volátil 2
+HOBBIES_1_150,1,Núcleo de alto valor
+HOBBIES_1_151,1,Núcleo de alto valor
+HOBBIES_1_153,2,Cola volátil 1
+HOBBIES_1_157,1,Núcleo de alto valor
+HOBBIES_1_159,1,Núcleo de alto valor
+HOBBIES_1_162,1,Núcleo de alto valor
+HOBBIES_1_163,1,Núcleo de alto valor
+HOBBIES_1_164,1,Núcleo de alto valor
+HOBBIES_1_165,1,Núcleo de alto valor
+HOBBIES_1_169,2,Cola volátil 1
+HOBBIES_1_172,3,Cola volátil 2
+HOBBIES_1_175,3,Cola volátil 2
+HOBBIES_1_176,1,Núcleo de alto valor
+HOBBIES_1_178,1,Núcleo de alto valor
+HOBBIES_1_179,1,Núcleo de alto valor
+HOBBIES_1_181,3,Cola volátil 2
+HOBBIES_1_184,1,Núcleo de alto valor
+HOBBIES_1_185,3,Cola volátil 2
+HOBBIES_1_187,3,Cola volátil 2
+HOBBIES_1_188,1,Núcleo de alto valor
+HOBBIES_1_189,1,Núcleo de alto valor
+HOBBIES_1_192,3,Cola volátil 2
+HOBBIES_1_193,1,Núcleo de alto valor
+HOBBIES_1_194,1,Núcleo de alto valor
+HOBBIES_1_195,1,Núcleo de alto valor
+HOBBIES_1_197,1,Núcleo de alto valor
+HOBBIES_1_198,1,Núcleo de alto valor
+HOBBIES_1_199,1,Núcleo de alto valor
+HOBBIES_1_201,1,Núcleo de alto valor
+HOBBIES_1_202,1,Núcleo de alto valor
+HOBBIES_1_207,1,Núcleo de alto valor
+HOBBIES_1_209,1,Núcleo de alto valor
+HOBBIES_1_210,1,Núcleo de alto valor
+HOBBIES_1_212,3,Cola volátil 2
+HOBBIES_1_213,1,Núcleo de alto valor
+HOBBIES_1_214,1,Núcleo de alto valor
+HOBBIES_1_215,1,Núcleo de alto valor
+HOBBIES_1_216,1,Núcleo de alto valor
+HOBBIES_1_217,3,Cola volátil 2
+HOBBIES_1_220,1,Núcleo de alto valor
+HOBBIES_1_221,3,Cola volátil 2
+HOBBIES_1_224,1,Núcleo de alto valor
+HOBBIES_1_227,3,Cola volátil 2
+HOBBIES_1_228,1,Núcleo de alto valor
+HOBBIES_1_230,1,Núcleo de alto valor
+HOBBIES_1_231,1,Núcleo de alto valor
+HOBBIES_1_233,3,Cola volátil 2
+HOBBIES_1_234,1,Núcleo de alto valor
+HOBBIES_1_235,1,Núcleo de alto valor
+HOBBIES_1_236,1,Núcleo de alto valor
+HOBBIES_1_237,1,Núcleo de alto valor
+HOBBIES_1_238,1,Núcleo de alto valor
+HOBBIES_1_239,3,Cola volátil 2
+HOBBIES_1_240,1,Núcleo de alto valor
+HOBBIES_1_242,1,Núcleo de alto valor
+HOBBIES_1_244,1,Núcleo de alto valor
+HOBBIES_1_245,1,Núcleo de alto valor
+HOBBIES_1_248,2,Cola volátil 1
+HOBBIES_1_249,1,Núcleo de alto valor
+HOBBIES_1_250,1,Núcleo de alto valor
+HOBBIES_1_251,4,Emergentes de crecimiento
+HOBBIES_1_254,3,Cola volátil 2
+HOBBIES_1_256,1,Núcleo de alto valor
+HOBBIES_1_257,1,Núcleo de alto valor
+HOBBIES_1_258,1,Núcleo de alto valor
+HOBBIES_1_259,1,Núcleo de alto valor
+HOBBIES_1_261,4,Emergentes de crecimiento
+HOBBIES_1_263,4,Emergentes de crecimiento
+HOBBIES_1_264,1,Núcleo de alto valor
+HOBBIES_1_266,3,Cola volátil 2
+HOBBIES_1_267,2,Cola volátil 1
+HOBBIES_1_268,1,Núcleo de alto valor
+HOBBIES_1_271,1,Núcleo de alto valor
+HOBBIES_1_273,3,Cola volátil 2
+HOBBIES_1_274,1,Núcleo de alto valor
+HOBBIES_1_276,1,Núcleo de alto valor
+HOBBIES_1_277,1,Núcleo de alto valor
+HOBBIES_1_278,2,Cola volátil 1
+HOBBIES_1_280,1,Núcleo de alto valor
+HOBBIES_1_282,2,Cola volátil 1
+HOBBIES_1_284,1,Núcleo de alto valor
+HOBBIES_1_286,1,Núcleo de alto valor
+HOBBIES_1_287,1,Núcleo de alto valor
+HOBBIES_1_288,2,Cola volátil 1
+HOBBIES_1_289,3,Cola volátil 2
+HOBBIES_1_290,3,Cola volátil 2
+HOBBIES_1_293,1,Núcleo de alto valor
+HOBBIES_1_295,1,Núcleo de alto valor
+HOBBIES_1_296,1,Núcleo de alto valor
+HOBBIES_1_297,1,Núcleo de alto valor
+HOBBIES_1_298,2,Cola volátil 1
+HOBBIES_1_299,3,Cola volátil 2
+HOBBIES_1_300,2,Cola volátil 1
+HOBBIES_1_301,1,Núcleo de alto valor
+HOBBIES_1_302,3,Cola volátil 2
+HOBBIES_1_303,3,Cola volátil 2
+HOBBIES_1_304,4,Emergentes de crecimiento
+HOBBIES_1_305,3,Cola volátil 2
+HOBBIES_1_309,1,Núcleo de alto valor
+HOBBIES_1_310,1,Núcleo de alto valor
+HOBBIES_1_312,2,Cola volátil 1
+HOBBIES_1_313,3,Cola volátil 2
+HOBBIES_1_314,3,Cola volátil 2
+HOBBIES_1_315,1,Núcleo de alto valor
+HOBBIES_1_317,1,Núcleo de alto valor
+HOBBIES_1_319,3,Cola volátil 2
+HOBBIES_1_320,1,Núcleo de alto valor
+HOBBIES_1_321,1,Núcleo de alto valor
+HOBBIES_1_323,1,Núcleo de alto valor
+HOBBIES_1_324,1,Núcleo de alto valor
+HOBBIES_1_326,1,Núcleo de alto valor
+HOBBIES_1_328,1,Núcleo de alto valor
+HOBBIES_1_329,1,Núcleo de alto valor
+HOBBIES_1_330,1,Núcleo de alto valor
+HOBBIES_1_331,3,Cola volátil 2
+HOBBIES_1_333,1,Núcleo de alto valor
+HOBBIES_1_336,3,Cola volátil 2
+HOBBIES_1_337,1,Núcleo de alto valor
+HOBBIES_1_338,1,Núcleo de alto valor
+HOBBIES_1_341,1,Núcleo de alto valor
+HOBBIES_1_343,1,Núcleo de alto valor
+HOBBIES_1_345,1,Núcleo de alto valor
+HOBBIES_1_347,1,Núcleo de alto valor
+HOBBIES_1_348,1,Núcleo de alto valor
+HOBBIES_1_350,3,Cola volátil 2
+HOBBIES_1_351,1,Núcleo de alto valor
+HOBBIES_1_355,2,Cola volátil 1
+HOBBIES_1_356,1,Núcleo de alto valor
+HOBBIES_1_357,1,Núcleo de alto valor
+HOBBIES_1_360,3,Cola volátil 2
+HOBBIES_1_363,3,Cola volátil 2
+HOBBIES_1_364,1,Núcleo de alto valor
+HOBBIES_1_365,3,Cola volátil 2
+HOBBIES_1_367,1,Núcleo de alto valor
+HOBBIES_1_368,3,Cola volátil 2
+HOBBIES_1_370,1,Núcleo de alto valor
+HOBBIES_1_371,1,Núcleo de alto valor
+HOBBIES_1_372,3,Cola volátil 2
+HOBBIES_1_377,3,Cola volátil 2
+HOBBIES_1_378,1,Núcleo de alto valor
+HOBBIES_1_379,1,Núcleo de alto valor
+HOBBIES_1_380,1,Núcleo de alto valor
+HOBBIES_1_381,1,Núcleo de alto valor
+HOBBIES_1_382,1,Núcleo de alto valor
+HOBBIES_1_383,1,Núcleo de alto valor
+HOBBIES_1_386,1,Núcleo de alto valor
+HOBBIES_1_388,1,Núcleo de alto valor
+HOBBIES_1_390,1,Núcleo de alto valor
+HOBBIES_1_396,1,Núcleo de alto valor
+HOBBIES_1_398,2,Cola volátil 1
+HOBBIES_1_399,3,Cola volátil 2
+HOBBIES_1_400,1,Núcleo de alto valor
+HOBBIES_1_401,3,Cola volátil 2
+HOBBIES_1_402,1,Núcleo de alto valor
+HOBBIES_1_403,1,Núcleo de alto valor
+HOBBIES_1_404,1,Núcleo de alto valor
+HOBBIES_1_405,3,Cola volátil 2
+HOBBIES_1_406,3,Cola volátil 2
+HOBBIES_1_407,1,Núcleo de alto valor
+HOBBIES_1_408,1,Núcleo de alto valor
+HOBBIES_1_409,1,Núcleo de alto valor
+HOBBIES_1_411,1,Núcleo de alto valor
+HOBBIES_1_413,2,Cola volátil 1
+HOBBIES_1_414,3,Cola volátil 2
+HOBBIES_1_415,1,Núcleo de alto valor
+HOBBIES_1_416,1,Núcleo de alto valor
+HOBBIES_1_417,2,Cola volátil 1
+HOBBIES_1_418,3,Cola volátil 2
+HOBBIES_1_419,1,Núcleo de alto valor
+HOBBIES_1_420,3,Cola volátil 2
+HOBBIES_1_422,3,Cola volátil 2
+HOBBIES_1_423,1,Núcleo de alto valor
+HOBBIES_1_424,1,Núcleo de alto valor
+HOBBIES_2_001,3,Cola volátil 2
+HOBBIES_2_002,2,Cola volátil 1
+HOBBIES_2_003,3,Cola volátil 2
+HOBBIES_2_004,3,Cola volátil 2
+HOBBIES_2_006,3,Cola volátil 2
+HOBBIES_2_007,3,Cola volátil 2
+HOBBIES_2_008,3,Cola volátil 2
+HOBBIES_2_009,1,Núcleo de alto valor
+HOBBIES_2_011,3,Cola volátil 2
+HOBBIES_2_013,3,Cola volátil 2
+HOBBIES_2_016,1,Núcleo de alto valor
+HOBBIES_2_020,3,Cola volátil 2
+HOBBIES_2_022,3,Cola volátil 2
+HOBBIES_2_028,3,Cola volátil 2
+HOBBIES_2_029,3,Cola volátil 2
+HOBBIES_2_032,3,Cola volátil 2
+HOBBIES_2_033,4,Emergentes de crecimiento
+HOBBIES_2_034,3,Cola volátil 2
+HOBBIES_2_036,3,Cola volátil 2
+HOBBIES_2_039,3,Cola volátil 2
+HOBBIES_2_042,3,Cola volátil 2
+HOBBIES_2_046,3,Cola volátil 2
+HOBBIES_2_048,3,Cola volátil 2
+HOBBIES_2_049,3,Cola volátil 2
+HOBBIES_2_050,3,Cola volátil 2
+HOBBIES_2_051,3,Cola volátil 2
+HOBBIES_2_052,3,Cola volátil 2
+HOBBIES_2_053,3,Cola volátil 2
+HOBBIES_2_055,3,Cola volátil 2
+HOBBIES_2_056,3,Cola volátil 2
+HOBBIES_2_057,3,Cola volátil 2
+HOBBIES_2_059,3,Cola volátil 2
+HOBBIES_2_060,3,Cola volátil 2
+HOBBIES_2_061,3,Cola volátil 2
+HOBBIES_2_062,3,Cola volátil 2
+HOBBIES_2_066,3,Cola volátil 2
+HOBBIES_2_068,3,Cola volátil 2
+HOBBIES_2_069,3,Cola volátil 2
+HOBBIES_2_074,3,Cola volátil 2
+HOBBIES_2_075,4,Emergentes de crecimiento
+HOBBIES_2_076,3,Cola volátil 2
+HOBBIES_2_078,2,Cola volátil 1
+HOBBIES_2_079,2,Cola volátil 1
+HOBBIES_2_080,3,Cola volátil 2
+HOBBIES_2_083,3,Cola volátil 2
+HOBBIES_2_085,3,Cola volátil 2
+HOBBIES_2_088,3,Cola volátil 2
+HOBBIES_2_089,3,Cola volátil 2
+HOBBIES_2_093,3,Cola volátil 2
+HOBBIES_2_096,3,Cola volátil 2
+HOBBIES_2_098,3,Cola volátil 2
+HOBBIES_2_100,3,Cola volátil 2
+HOBBIES_2_102,3,Cola volátil 2
+HOBBIES_2_103,3,Cola volátil 2
+HOBBIES_2_105,2,Cola volátil 1
+HOBBIES_2_112,3,Cola volátil 2
+HOBBIES_2_113,3,Cola volátil 2
+HOBBIES_2_115,3,Cola volátil 2
+HOBBIES_2_116,3,Cola volátil 2
+HOBBIES_2_117,4,Emergentes de crecimiento
+HOBBIES_2_118,3,Cola volátil 2
+HOBBIES_2_119,3,Cola volátil 2
+HOBBIES_2_120,4,Emergentes de crecimiento
+HOBBIES_2_122,3,Cola volátil 2
+HOBBIES_2_128,3,Cola volátil 2
+HOBBIES_2_129,3,Cola volátil 2
+HOBBIES_2_130,2,Cola volátil 1
+HOBBIES_2_131,2,Cola volátil 1
+HOBBIES_2_133,4,Emergentes de crecimiento
+HOBBIES_2_134,4,Emergentes de crecimiento
+HOBBIES_2_136,3,Cola volátil 2
+HOBBIES_2_142,3,Cola volátil 2
+HOBBIES_2_143,3,Cola volátil 2
+HOBBIES_2_145,4,Emergentes de crecimiento
+HOBBIES_2_146,3,Cola volátil 2
+HOBBIES_2_148,3,Cola volátil 2
+HOUSEHOLD_1_001,2,Cola volátil 1
+HOUSEHOLD_1_002,2,Cola volátil 1
+HOUSEHOLD_1_004,1,Núcleo de alto valor
+HOUSEHOLD_1_005,3,Cola volátil 2
+HOUSEHOLD_1_006,2,Cola volátil 1
+HOUSEHOLD_1_007,1,Núcleo de alto valor
+HOUSEHOLD_1_008,3,Cola volátil 2
+HOUSEHOLD_1_011,1,Núcleo de alto valor
+HOUSEHOLD_1_012,1,Núcleo de alto valor
+HOUSEHOLD_1_013,2,Cola volátil 1
+HOUSEHOLD_1_014,1,Núcleo de alto valor
+HOUSEHOLD_1_016,1,Núcleo de alto valor
+HOUSEHOLD_1_017,1,Núcleo de alto valor
+HOUSEHOLD_1_018,1,Núcleo de alto valor
+HOUSEHOLD_1_021,1,Núcleo de alto valor
+HOUSEHOLD_1_025,3,Cola volátil 2
+HOUSEHOLD_1_027,1,Núcleo de alto valor
+HOUSEHOLD_1_028,1,Núcleo de alto valor
+HOUSEHOLD_1_032,1,Núcleo de alto valor
+HOUSEHOLD_1_034,3,Cola volátil 2
+HOUSEHOLD_1_035,1,Núcleo de alto valor
+HOUSEHOLD_1_037,2,Cola volátil 1
+HOUSEHOLD_1_038,1,Núcleo de alto valor
+HOUSEHOLD_1_039,1,Núcleo de alto valor
+HOUSEHOLD_1_040,1,Núcleo de alto valor
+HOUSEHOLD_1_042,2,Cola volátil 1
+HOUSEHOLD_1_045,2,Cola volátil 1
+HOUSEHOLD_1_046,1,Núcleo de alto valor
+HOUSEHOLD_1_048,1,Núcleo de alto valor
+HOUSEHOLD_1_053,2,Cola volátil 1
+HOUSEHOLD_1_055,1,Núcleo de alto valor
+HOUSEHOLD_1_056,2,Cola volátil 1
+HOUSEHOLD_1_057,2,Cola volátil 1
+HOUSEHOLD_1_059,2,Cola volátil 1
+HOUSEHOLD_1_062,1,Núcleo de alto valor
+HOUSEHOLD_1_065,2,Cola volátil 1
+HOUSEHOLD_1_068,2,Cola volátil 1
+HOUSEHOLD_1_069,1,Núcleo de alto valor
+HOUSEHOLD_1_070,1,Núcleo de alto valor
+HOUSEHOLD_1_072,1,Núcleo de alto valor
+HOUSEHOLD_1_073,3,Cola volátil 2
+HOUSEHOLD_1_074,1,Núcleo de alto valor
+HOUSEHOLD_1_075,1,Núcleo de alto valor
+HOUSEHOLD_1_078,1,Núcleo de alto valor
+HOUSEHOLD_1_083,1,Núcleo de alto valor
+HOUSEHOLD_1_085,1,Núcleo de alto valor
+HOUSEHOLD_1_086,3,Cola volátil 2
+HOUSEHOLD_1_087,1,Núcleo de alto valor
+HOUSEHOLD_1_088,1,Núcleo de alto valor
+HOUSEHOLD_1_089,3,Cola volátil 2
+HOUSEHOLD_1_091,1,Núcleo de alto valor
+HOUSEHOLD_1_092,3,Cola volátil 2
+HOUSEHOLD_1_095,1,Núcleo de alto valor
+HOUSEHOLD_1_097,1,Núcleo de alto valor
+HOUSEHOLD_1_099,1,Núcleo de alto valor
+HOUSEHOLD_1_100,1,Núcleo de alto valor
+HOUSEHOLD_1_101,1,Núcleo de alto valor
+HOUSEHOLD_1_103,1,Núcleo de alto valor
+HOUSEHOLD_1_105,1,Núcleo de alto valor
+HOUSEHOLD_1_108,3,Cola volátil 2
+HOUSEHOLD_1_109,1,Núcleo de alto valor
+HOUSEHOLD_1_112,3,Cola volátil 2
+HOUSEHOLD_1_114,1,Núcleo de alto valor
+HOUSEHOLD_1_115,2,Cola volátil 1
+HOUSEHOLD_1_117,1,Núcleo de alto valor
+HOUSEHOLD_1_118,1,Núcleo de alto valor
+HOUSEHOLD_1_120,3,Cola volátil 2
+HOUSEHOLD_1_122,1,Núcleo de alto valor
+HOUSEHOLD_1_124,1,Núcleo de alto valor
+HOUSEHOLD_1_125,1,Núcleo de alto valor
+HOUSEHOLD_1_126,1,Núcleo de alto valor
+HOUSEHOLD_1_127,1,Núcleo de alto valor
+HOUSEHOLD_1_128,2,Cola volátil 1
+HOUSEHOLD_1_129,1,Núcleo de alto valor
+HOUSEHOLD_1_132,1,Núcleo de alto valor
+HOUSEHOLD_1_135,4,Emergentes de crecimiento
+HOUSEHOLD_1_138,3,Cola volátil 2
+HOUSEHOLD_1_140,2,Cola volátil 1
+HOUSEHOLD_1_141,1,Núcleo de alto valor
+HOUSEHOLD_1_145,4,Emergentes de crecimiento
+HOUSEHOLD_1_146,1,Núcleo de alto valor
+HOUSEHOLD_1_147,2,Cola volátil 1
+HOUSEHOLD_1_149,1,Núcleo de alto valor
+HOUSEHOLD_1_150,2,Cola volátil 1
+HOUSEHOLD_1_151,1,Núcleo de alto valor
+HOUSEHOLD_1_154,2,Cola volátil 1
+HOUSEHOLD_1_155,1,Núcleo de alto valor
+HOUSEHOLD_1_157,2,Cola volátil 1
+HOUSEHOLD_1_158,1,Núcleo de alto valor
+HOUSEHOLD_1_160,2,Cola volátil 1
+HOUSEHOLD_1_162,1,Núcleo de alto valor
+HOUSEHOLD_1_165,1,Núcleo de alto valor
+HOUSEHOLD_1_166,2,Cola volátil 1
+HOUSEHOLD_1_168,2,Cola volátil 1
+HOUSEHOLD_1_170,1,Núcleo de alto valor
+HOUSEHOLD_1_173,1,Núcleo de alto valor
+HOUSEHOLD_1_174,2,Cola volátil 1
+HOUSEHOLD_1_175,2,Cola volátil 1
+HOUSEHOLD_1_176,1,Núcleo de alto valor
+HOUSEHOLD_1_177,4,Emergentes de crecimiento
+HOUSEHOLD_1_178,1,Núcleo de alto valor
+HOUSEHOLD_1_179,2,Cola volátil 1
+HOUSEHOLD_1_180,1,Núcleo de alto valor
+HOUSEHOLD_1_181,1,Núcleo de alto valor
+HOUSEHOLD_1_182,1,Núcleo de alto valor
+HOUSEHOLD_1_184,2,Cola volátil 1
+HOUSEHOLD_1_188,1,Núcleo de alto valor
+HOUSEHOLD_1_191,2,Cola volátil 1
+HOUSEHOLD_1_192,1,Núcleo de alto valor
+HOUSEHOLD_1_194,1,Núcleo de alto valor
+HOUSEHOLD_1_196,1,Núcleo de alto valor
+HOUSEHOLD_1_197,1,Núcleo de alto valor
+HOUSEHOLD_1_198,1,Núcleo de alto valor
+HOUSEHOLD_1_199,3,Cola volátil 2
+HOUSEHOLD_1_203,2,Cola volátil 1
+HOUSEHOLD_1_204,1,Núcleo de alto valor
+HOUSEHOLD_1_205,1,Núcleo de alto valor
+HOUSEHOLD_1_206,3,Cola volátil 2
+HOUSEHOLD_1_207,3,Cola volátil 2
+HOUSEHOLD_1_210,2,Cola volátil 1
+HOUSEHOLD_1_211,1,Núcleo de alto valor
+HOUSEHOLD_1_212,1,Núcleo de alto valor
+HOUSEHOLD_1_215,1,Núcleo de alto valor
+HOUSEHOLD_1_222,2,Cola volátil 1
+HOUSEHOLD_1_223,2,Cola volátil 1
+HOUSEHOLD_1_224,1,Núcleo de alto valor
+HOUSEHOLD_1_228,1,Núcleo de alto valor
+HOUSEHOLD_1_229,3,Cola volátil 2
+HOUSEHOLD_1_230,1,Núcleo de alto valor
+HOUSEHOLD_1_234,1,Núcleo de alto valor
+HOUSEHOLD_1_235,1,Núcleo de alto valor
+HOUSEHOLD_1_236,2,Cola volátil 1
+HOUSEHOLD_1_243,1,Núcleo de alto valor
+HOUSEHOLD_1_247,1,Núcleo de alto valor
+HOUSEHOLD_1_248,1,Núcleo de alto valor
+HOUSEHOLD_1_251,1,Núcleo de alto valor
+HOUSEHOLD_1_255,1,Núcleo de alto valor
+HOUSEHOLD_1_256,1,Núcleo de alto valor
+HOUSEHOLD_1_259,4,Emergentes de crecimiento
+HOUSEHOLD_1_261,1,Núcleo de alto valor
+HOUSEHOLD_1_265,1,Núcleo de alto valor
+HOUSEHOLD_1_268,1,Núcleo de alto valor
+HOUSEHOLD_1_269,1,Núcleo de alto valor
+HOUSEHOLD_1_270,3,Cola volátil 2
+HOUSEHOLD_1_272,2,Cola volátil 1
+HOUSEHOLD_1_275,1,Núcleo de alto valor
+HOUSEHOLD_1_276,1,Núcleo de alto valor
+HOUSEHOLD_1_278,3,Cola volátil 2
+HOUSEHOLD_1_279,1,Núcleo de alto valor
+HOUSEHOLD_1_281,3,Cola volátil 2
+HOUSEHOLD_1_285,1,Núcleo de alto valor
+HOUSEHOLD_1_287,3,Cola volátil 2
+HOUSEHOLD_1_289,1,Núcleo de alto valor
+HOUSEHOLD_1_290,1,Núcleo de alto valor
+HOUSEHOLD_1_291,1,Núcleo de alto valor
+HOUSEHOLD_1_292,1,Núcleo de alto valor
+HOUSEHOLD_1_294,1,Núcleo de alto valor
+HOUSEHOLD_1_295,3,Cola volátil 2
+HOUSEHOLD_1_297,2,Cola volátil 1
+HOUSEHOLD_1_298,3,Cola volátil 2
+HOUSEHOLD_1_302,4,Emergentes de crecimiento
+HOUSEHOLD_1_303,2,Cola volátil 1
+HOUSEHOLD_1_305,1,Núcleo de alto valor
+HOUSEHOLD_1_309,1,Núcleo de alto valor
+HOUSEHOLD_1_310,4,Emergentes de crecimiento
+HOUSEHOLD_1_312,3,Cola volátil 2
+HOUSEHOLD_1_313,1,Núcleo de alto valor
+HOUSEHOLD_1_316,3,Cola volátil 2
+HOUSEHOLD_1_318,1,Núcleo de alto valor
+HOUSEHOLD_1_319,1,Núcleo de alto valor
+HOUSEHOLD_1_321,3,Cola volátil 2
+HOUSEHOLD_1_323,2,Cola volátil 1
+HOUSEHOLD_1_324,1,Núcleo de alto valor
+HOUSEHOLD_1_325,2,Cola volátil 1
+HOUSEHOLD_1_326,2,Cola volátil 1
+HOUSEHOLD_1_327,2,Cola volátil 1
+HOUSEHOLD_1_329,1,Núcleo de alto valor
+HOUSEHOLD_1_331,1,Núcleo de alto valor
+HOUSEHOLD_1_333,2,Cola volátil 1
+HOUSEHOLD_1_336,1,Núcleo de alto valor
+HOUSEHOLD_1_340,1,Núcleo de alto valor
+HOUSEHOLD_1_341,1,Núcleo de alto valor
+HOUSEHOLD_1_343,1,Núcleo de alto valor
+HOUSEHOLD_1_344,1,Núcleo de alto valor
+HOUSEHOLD_1_345,1,Núcleo de alto valor
+HOUSEHOLD_1_347,1,Núcleo de alto valor
+HOUSEHOLD_1_350,1,Núcleo de alto valor
+HOUSEHOLD_1_353,1,Núcleo de alto valor
+HOUSEHOLD_1_354,1,Núcleo de alto valor
+HOUSEHOLD_1_357,2,Cola volátil 1
+HOUSEHOLD_1_360,1,Núcleo de alto valor
+HOUSEHOLD_1_362,3,Cola volátil 2
+HOUSEHOLD_1_364,1,Núcleo de alto valor
+HOUSEHOLD_1_365,1,Núcleo de alto valor
+HOUSEHOLD_1_366,2,Cola volátil 1
+HOUSEHOLD_1_367,3,Cola volátil 2
+HOUSEHOLD_1_368,1,Núcleo de alto valor
+HOUSEHOLD_1_369,1,Núcleo de alto valor
+HOUSEHOLD_1_370,2,Cola volátil 1
+HOUSEHOLD_1_372,1,Núcleo de alto valor
+HOUSEHOLD_1_373,1,Núcleo de alto valor
+HOUSEHOLD_1_374,1,Núcleo de alto valor
+HOUSEHOLD_1_375,1,Núcleo de alto valor
+HOUSEHOLD_1_376,2,Cola volátil 1
+HOUSEHOLD_1_377,3,Cola volátil 2
+HOUSEHOLD_1_379,1,Núcleo de alto valor
+HOUSEHOLD_1_381,1,Núcleo de alto valor
+HOUSEHOLD_1_387,3,Cola volátil 2
+HOUSEHOLD_1_389,2,Cola volátil 1
+HOUSEHOLD_1_393,1,Núcleo de alto valor
+HOUSEHOLD_1_394,1,Núcleo de alto valor
+HOUSEHOLD_1_395,1,Núcleo de alto valor
+HOUSEHOLD_1_397,2,Cola volátil 1
+HOUSEHOLD_1_399,2,Cola volátil 1
+HOUSEHOLD_1_401,1,Núcleo de alto valor
+HOUSEHOLD_1_403,1,Núcleo de alto valor
+HOUSEHOLD_1_404,2,Cola volátil 1
+HOUSEHOLD_1_408,1,Núcleo de alto valor
+HOUSEHOLD_1_410,2,Cola volátil 1
+HOUSEHOLD_1_411,1,Núcleo de alto valor
+HOUSEHOLD_1_413,1,Núcleo de alto valor
+HOUSEHOLD_1_415,1,Núcleo de alto valor
+HOUSEHOLD_1_416,2,Cola volátil 1
+HOUSEHOLD_1_417,3,Cola volátil 2
+HOUSEHOLD_1_422,1,Núcleo de alto valor
+HOUSEHOLD_1_424,1,Núcleo de alto valor
+HOUSEHOLD_1_425,3,Cola volátil 2
+HOUSEHOLD_1_427,2,Cola volátil 1
+HOUSEHOLD_1_428,3,Cola volátil 2
+HOUSEHOLD_1_432,3,Cola volátil 2
+HOUSEHOLD_1_434,1,Núcleo de alto valor
+HOUSEHOLD_1_436,4,Emergentes de crecimiento
+HOUSEHOLD_1_437,2,Cola volátil 1
+HOUSEHOLD_1_438,1,Núcleo de alto valor
+HOUSEHOLD_1_439,2,Cola volátil 1
+HOUSEHOLD_1_440,2,Cola volátil 1
+HOUSEHOLD_1_441,3,Cola volátil 2
+HOUSEHOLD_1_443,2,Cola volátil 1
+HOUSEHOLD_1_445,1,Núcleo de alto valor
+HOUSEHOLD_1_446,1,Núcleo de alto valor
+HOUSEHOLD_1_452,2,Cola volátil 1
+HOUSEHOLD_1_458,3,Cola volátil 2
+HOUSEHOLD_1_460,1,Núcleo de alto valor
+HOUSEHOLD_1_461,1,Núcleo de alto valor
+HOUSEHOLD_1_462,1,Núcleo de alto valor
+HOUSEHOLD_1_464,1,Núcleo de alto valor
+HOUSEHOLD_1_468,1,Núcleo de alto valor
+HOUSEHOLD_1_469,1,Núcleo de alto valor
+HOUSEHOLD_1_472,3,Cola volátil 2
+HOUSEHOLD_1_474,3,Cola volátil 2
+HOUSEHOLD_1_475,1,Núcleo de alto valor
+HOUSEHOLD_1_477,1,Núcleo de alto valor
+HOUSEHOLD_1_478,1,Núcleo de alto valor
+HOUSEHOLD_1_479,1,Núcleo de alto valor
+HOUSEHOLD_1_481,1,Núcleo de alto valor
+HOUSEHOLD_1_482,2,Cola volátil 1
+HOUSEHOLD_1_485,3,Cola volátil 2
+HOUSEHOLD_1_487,2,Cola volátil 1
+HOUSEHOLD_1_488,1,Núcleo de alto valor
+HOUSEHOLD_1_490,1,Núcleo de alto valor
+HOUSEHOLD_1_492,3,Cola volátil 2
+HOUSEHOLD_1_493,3,Cola volátil 2
+HOUSEHOLD_1_494,1,Núcleo de alto valor
+HOUSEHOLD_1_498,1,Núcleo de alto valor
+HOUSEHOLD_1_501,1,Núcleo de alto valor
+HOUSEHOLD_1_503,1,Núcleo de alto valor
+HOUSEHOLD_1_505,2,Cola volátil 1
+HOUSEHOLD_1_506,1,Núcleo de alto valor
+HOUSEHOLD_1_507,1,Núcleo de alto valor
+HOUSEHOLD_1_508,1,Núcleo de alto valor
+HOUSEHOLD_1_510,1,Núcleo de alto valor
+HOUSEHOLD_1_516,1,Núcleo de alto valor
+HOUSEHOLD_1_519,1,Núcleo de alto valor
+HOUSEHOLD_1_520,1,Núcleo de alto valor
+HOUSEHOLD_1_521,2,Cola volátil 1
+HOUSEHOLD_1_522,1,Núcleo de alto valor
+HOUSEHOLD_1_525,1,Núcleo de alto valor
+HOUSEHOLD_1_528,1,Núcleo de alto valor
+HOUSEHOLD_1_531,1,Núcleo de alto valor
+HOUSEHOLD_1_532,1,Núcleo de alto valor
+HOUSEHOLD_1_535,2,Cola volátil 1
+HOUSEHOLD_1_537,1,Núcleo de alto valor
+HOUSEHOLD_1_539,1,Núcleo de alto valor
+HOUSEHOLD_1_541,4,Emergentes de crecimiento
+HOUSEHOLD_2_001,1,Núcleo de alto valor
+HOUSEHOLD_2_002,1,Núcleo de alto valor
+HOUSEHOLD_2_003,1,Núcleo de alto valor
+HOUSEHOLD_2_004,1,Núcleo de alto valor
+HOUSEHOLD_2_006,3,Cola volátil 2
+HOUSEHOLD_2_007,1,Núcleo de alto valor
+HOUSEHOLD_2_008,3,Cola volátil 2
+HOUSEHOLD_2_010,3,Cola volátil 2
+HOUSEHOLD_2_012,1,Núcleo de alto valor
+HOUSEHOLD_2_013,3,Cola volátil 2
+HOUSEHOLD_2_014,1,Núcleo de alto valor
+HOUSEHOLD_2_015,2,Cola volátil 1
+HOUSEHOLD_2_016,2,Cola volátil 1
+HOUSEHOLD_2_018,3,Cola volátil 2
+HOUSEHOLD_2_019,2,Cola volátil 1
+HOUSEHOLD_2_021,3,Cola volátil 2
+HOUSEHOLD_2_025,2,Cola volátil 1
+HOUSEHOLD_2_026,3,Cola volátil 2
+HOUSEHOLD_2_028,3,Cola volátil 2
+HOUSEHOLD_2_030,1,Núcleo de alto valor
+HOUSEHOLD_2_033,1,Núcleo de alto valor
+HOUSEHOLD_2_034,3,Cola volátil 2
+HOUSEHOLD_2_035,1,Núcleo de alto valor
+HOUSEHOLD_2_036,3,Cola volátil 2
+HOUSEHOLD_2_037,3,Cola volátil 2
+HOUSEHOLD_2_038,3,Cola volátil 2
+HOUSEHOLD_2_039,2,Cola volátil 1
+HOUSEHOLD_2_041,1,Núcleo de alto valor
+HOUSEHOLD_2_042,3,Cola volátil 2
+HOUSEHOLD_2_043,1,Núcleo de alto valor
+HOUSEHOLD_2_045,2,Cola volátil 1
+HOUSEHOLD_2_047,3,Cola volátil 2
+HOUSEHOLD_2_048,3,Cola volátil 2
+HOUSEHOLD_2_050,1,Núcleo de alto valor
+HOUSEHOLD_2_051,2,Cola volátil 1
+HOUSEHOLD_2_052,1,Núcleo de alto valor
+HOUSEHOLD_2_053,3,Cola volátil 2
+HOUSEHOLD_2_054,1,Núcleo de alto valor
+HOUSEHOLD_2_055,3,Cola volátil 2
+HOUSEHOLD_2_056,3,Cola volátil 2
+HOUSEHOLD_2_059,2,Cola volátil 1
+HOUSEHOLD_2_062,3,Cola volátil 2
+HOUSEHOLD_2_063,3,Cola volátil 2
+HOUSEHOLD_2_064,1,Núcleo de alto valor
+HOUSEHOLD_2_068,1,Núcleo de alto valor
+HOUSEHOLD_2_069,1,Núcleo de alto valor
+HOUSEHOLD_2_070,1,Núcleo de alto valor
+HOUSEHOLD_2_071,2,Cola volátil 1
+HOUSEHOLD_2_074,1,Núcleo de alto valor
+HOUSEHOLD_2_075,3,Cola volátil 2
+HOUSEHOLD_2_076,2,Cola volátil 1
+HOUSEHOLD_2_078,2,Cola volátil 1
+HOUSEHOLD_2_079,3,Cola volátil 2
+HOUSEHOLD_2_082,1,Núcleo de alto valor
+HOUSEHOLD_2_083,2,Cola volátil 1
+HOUSEHOLD_2_084,1,Núcleo de alto valor
+HOUSEHOLD_2_086,3,Cola volátil 2
+HOUSEHOLD_2_087,3,Cola volátil 2
+HOUSEHOLD_2_088,2,Cola volátil 1
+HOUSEHOLD_2_089,2,Cola volátil 1
+HOUSEHOLD_2_090,2,Cola volátil 1
+HOUSEHOLD_2_092,3,Cola volátil 2
+HOUSEHOLD_2_093,2,Cola volátil 1
+HOUSEHOLD_2_094,3,Cola volátil 2
+HOUSEHOLD_2_097,4,Emergentes de crecimiento
+HOUSEHOLD_2_098,3,Cola volátil 2
+HOUSEHOLD_2_099,3,Cola volátil 2
+HOUSEHOLD_2_100,2,Cola volátil 1
+HOUSEHOLD_2_104,1,Núcleo de alto valor
+HOUSEHOLD_2_105,3,Cola volátil 2
+HOUSEHOLD_2_106,3,Cola volátil 2
+HOUSEHOLD_2_107,1,Núcleo de alto valor
+HOUSEHOLD_2_108,2,Cola volátil 1
+HOUSEHOLD_2_113,3,Cola volátil 2
+HOUSEHOLD_2_115,1,Núcleo de alto valor
+HOUSEHOLD_2_117,1,Núcleo de alto valor
+HOUSEHOLD_2_119,3,Cola volátil 2
+HOUSEHOLD_2_121,1,Núcleo de alto valor
+HOUSEHOLD_2_122,3,Cola volátil 2
+HOUSEHOLD_2_124,2,Cola volátil 1
+HOUSEHOLD_2_125,2,Cola volátil 1
+HOUSEHOLD_2_128,1,Núcleo de alto valor
+HOUSEHOLD_2_131,2,Cola volátil 1
+HOUSEHOLD_2_133,3,Cola volátil 2
+HOUSEHOLD_2_134,3,Cola volátil 2
+HOUSEHOLD_2_135,1,Núcleo de alto valor
+HOUSEHOLD_2_136,3,Cola volátil 2
+HOUSEHOLD_2_137,3,Cola volátil 2
+HOUSEHOLD_2_138,3,Cola volátil 2
+HOUSEHOLD_2_139,3,Cola volátil 2
+HOUSEHOLD_2_140,1,Núcleo de alto valor
+HOUSEHOLD_2_141,3,Cola volátil 2
+HOUSEHOLD_2_142,3,Cola volátil 2
+HOUSEHOLD_2_143,2,Cola volátil 1
+HOUSEHOLD_2_144,2,Cola volátil 1
+HOUSEHOLD_2_145,1,Núcleo de alto valor
+HOUSEHOLD_2_147,3,Cola volátil 2
+HOUSEHOLD_2_149,3,Cola volátil 2
+HOUSEHOLD_2_152,3,Cola volátil 2
+HOUSEHOLD_2_154,1,Núcleo de alto valor
+HOUSEHOLD_2_155,2,Cola volátil 1
+HOUSEHOLD_2_156,2,Cola volátil 1
+HOUSEHOLD_2_158,2,Cola volátil 1
+HOUSEHOLD_2_159,1,Núcleo de alto valor
+HOUSEHOLD_2_160,1,Núcleo de alto valor
+HOUSEHOLD_2_163,3,Cola volátil 2
+HOUSEHOLD_2_166,2,Cola volátil 1
+HOUSEHOLD_2_168,3,Cola volátil 2
+HOUSEHOLD_2_170,1,Núcleo de alto valor
+HOUSEHOLD_2_172,1,Núcleo de alto valor
+HOUSEHOLD_2_173,2,Cola volátil 1
+HOUSEHOLD_2_174,3,Cola volátil 2
+HOUSEHOLD_2_176,3,Cola volátil 2
+HOUSEHOLD_2_178,2,Cola volátil 1
+HOUSEHOLD_2_179,1,Núcleo de alto valor
+HOUSEHOLD_2_182,4,Emergentes de crecimiento
+HOUSEHOLD_2_183,3,Cola volátil 2
+HOUSEHOLD_2_184,3,Cola volátil 2
+HOUSEHOLD_2_189,1,Núcleo de alto valor
+HOUSEHOLD_2_190,4,Emergentes de crecimiento
+HOUSEHOLD_2_191,3,Cola volátil 2
+HOUSEHOLD_2_192,3,Cola volátil 2
+HOUSEHOLD_2_193,1,Núcleo de alto valor
+HOUSEHOLD_2_195,3,Cola volátil 2
+HOUSEHOLD_2_197,1,Núcleo de alto valor
+HOUSEHOLD_2_198,3,Cola volátil 2
+HOUSEHOLD_2_199,1,Núcleo de alto valor
+HOUSEHOLD_2_200,1,Núcleo de alto valor
+HOUSEHOLD_2_201,1,Núcleo de alto valor
+HOUSEHOLD_2_202,2,Cola volátil 1
+HOUSEHOLD_2_204,1,Núcleo de alto valor
+HOUSEHOLD_2_206,3,Cola volátil 2
+HOUSEHOLD_2_207,1,Núcleo de alto valor
+HOUSEHOLD_2_208,3,Cola volátil 2
+HOUSEHOLD_2_209,3,Cola volátil 2
+HOUSEHOLD_2_210,2,Cola volátil 1
+HOUSEHOLD_2_211,3,Cola volátil 2
+HOUSEHOLD_2_212,3,Cola volátil 2
+HOUSEHOLD_2_214,3,Cola volátil 2
+HOUSEHOLD_2_215,2,Cola volátil 1
+HOUSEHOLD_2_217,3,Cola volátil 2
+HOUSEHOLD_2_218,1,Núcleo de alto valor
+HOUSEHOLD_2_219,2,Cola volátil 1
+HOUSEHOLD_2_220,3,Cola volátil 2
+HOUSEHOLD_2_222,1,Núcleo de alto valor
+HOUSEHOLD_2_223,1,Núcleo de alto valor
+HOUSEHOLD_2_224,4,Emergentes de crecimiento
+HOUSEHOLD_2_226,2,Cola volátil 1
+HOUSEHOLD_2_227,3,Cola volátil 2
+HOUSEHOLD_2_228,1,Núcleo de alto valor
+HOUSEHOLD_2_229,1,Núcleo de alto valor
+HOUSEHOLD_2_231,3,Cola volátil 2
+HOUSEHOLD_2_232,1,Núcleo de alto valor
+HOUSEHOLD_2_233,3,Cola volátil 2
+HOUSEHOLD_2_234,2,Cola volátil 1
+HOUSEHOLD_2_235,1,Núcleo de alto valor
+HOUSEHOLD_2_236,3,Cola volátil 2
+HOUSEHOLD_2_238,2,Cola volátil 1
+HOUSEHOLD_2_239,3,Cola volátil 2
+HOUSEHOLD_2_241,1,Núcleo de alto valor
+HOUSEHOLD_2_242,3,Cola volátil 2
+HOUSEHOLD_2_243,3,Cola volátil 2
+HOUSEHOLD_2_244,3,Cola volátil 2
+HOUSEHOLD_2_246,3,Cola volátil 2
+HOUSEHOLD_2_247,1,Núcleo de alto valor
+HOUSEHOLD_2_249,2,Cola volátil 1
+HOUSEHOLD_2_250,1,Núcleo de alto valor
+HOUSEHOLD_2_253,3,Cola volátil 2
+HOUSEHOLD_2_254,2,Cola volátil 1
+HOUSEHOLD_2_255,1,Núcleo de alto valor
+HOUSEHOLD_2_257,2,Cola volátil 1
+HOUSEHOLD_2_258,1,Núcleo de alto valor
+HOUSEHOLD_2_259,3,Cola volátil 2
+HOUSEHOLD_2_260,2,Cola volátil 1
+HOUSEHOLD_2_261,3,Cola volátil 2
+HOUSEHOLD_2_262,1,Núcleo de alto valor
+HOUSEHOLD_2_265,1,Núcleo de alto valor
+HOUSEHOLD_2_267,4,Emergentes de crecimiento
+HOUSEHOLD_2_268,2,Cola volátil 1
+HOUSEHOLD_2_269,3,Cola volátil 2
+HOUSEHOLD_2_270,2,Cola volátil 1
+HOUSEHOLD_2_271,2,Cola volátil 1
+HOUSEHOLD_2_273,2,Cola volátil 1
+HOUSEHOLD_2_274,3,Cola volátil 2
+HOUSEHOLD_2_275,2,Cola volátil 1
+HOUSEHOLD_2_278,3,Cola volátil 2
+HOUSEHOLD_2_279,2,Cola volátil 1
+HOUSEHOLD_2_281,1,Núcleo de alto valor
+HOUSEHOLD_2_282,2,Cola volátil 1
+HOUSEHOLD_2_283,4,Emergentes de crecimiento
+HOUSEHOLD_2_284,1,Núcleo de alto valor
+HOUSEHOLD_2_285,2,Cola volátil 1
+HOUSEHOLD_2_287,3,Cola volátil 2
+HOUSEHOLD_2_288,1,Núcleo de alto valor
+HOUSEHOLD_2_290,1,Núcleo de alto valor
+HOUSEHOLD_2_291,3,Cola volátil 2
+HOUSEHOLD_2_292,1,Núcleo de alto valor
+HOUSEHOLD_2_293,3,Cola volátil 2
+HOUSEHOLD_2_294,1,Núcleo de alto valor
+HOUSEHOLD_2_295,3,Cola volátil 2
+HOUSEHOLD_2_296,1,Núcleo de alto valor
+HOUSEHOLD_2_297,3,Cola volátil 2
+HOUSEHOLD_2_299,1,Núcleo de alto valor
+HOUSEHOLD_2_301,1,Núcleo de alto valor
+HOUSEHOLD_2_304,3,Cola volátil 2
+HOUSEHOLD_2_305,1,Núcleo de alto valor
+HOUSEHOLD_2_308,1,Núcleo de alto valor
+HOUSEHOLD_2_310,3,Cola volátil 2
+HOUSEHOLD_2_311,3,Cola volátil 2
+HOUSEHOLD_2_315,1,Núcleo de alto valor
+HOUSEHOLD_2_316,1,Núcleo de alto valor
+HOUSEHOLD_2_317,3,Cola volátil 2
+HOUSEHOLD_2_321,2,Cola volátil 1
+HOUSEHOLD_2_324,3,Cola volátil 2
+HOUSEHOLD_2_325,1,Núcleo de alto valor
+HOUSEHOLD_2_326,3,Cola volátil 2
+HOUSEHOLD_2_327,3,Cola volátil 2
+HOUSEHOLD_2_328,1,Núcleo de alto valor
+HOUSEHOLD_2_329,1,Núcleo de alto valor
+HOUSEHOLD_2_332,2,Cola volátil 1
+HOUSEHOLD_2_334,3,Cola volátil 2
+HOUSEHOLD_2_336,1,Núcleo de alto valor
+HOUSEHOLD_2_337,3,Cola volátil 2
+HOUSEHOLD_2_339,3,Cola volátil 2
+HOUSEHOLD_2_341,3,Cola volátil 2
+HOUSEHOLD_2_345,3,Cola volátil 2
+HOUSEHOLD_2_347,2,Cola volátil 1
+HOUSEHOLD_2_348,1,Núcleo de alto valor
+HOUSEHOLD_2_349,1,Núcleo de alto valor
+HOUSEHOLD_2_350,1,Núcleo de alto valor
+HOUSEHOLD_2_351,1,Núcleo de alto valor
+HOUSEHOLD_2_352,3,Cola volátil 2
+HOUSEHOLD_2_353,1,Núcleo de alto valor
+HOUSEHOLD_2_354,3,Cola volátil 2
+HOUSEHOLD_2_355,1,Núcleo de alto valor
+HOUSEHOLD_2_356,1,Núcleo de alto valor
+HOUSEHOLD_2_357,2,Cola volátil 1
+HOUSEHOLD_2_362,3,Cola volátil 2
+HOUSEHOLD_2_363,1,Núcleo de alto valor
+HOUSEHOLD_2_366,1,Núcleo de alto valor
+HOUSEHOLD_2_367,1,Núcleo de alto valor
+HOUSEHOLD_2_368,3,Cola volátil 2
+HOUSEHOLD_2_369,1,Núcleo de alto valor
+HOUSEHOLD_2_370,2,Cola volátil 1
+HOUSEHOLD_2_371,3,Cola volátil 2
+HOUSEHOLD_2_373,2,Cola volátil 1
+HOUSEHOLD_2_375,2,Cola volátil 1
+HOUSEHOLD_2_376,1,Núcleo de alto valor
+HOUSEHOLD_2_377,3,Cola volátil 2
+HOUSEHOLD_2_378,3,Cola volátil 2
+HOUSEHOLD_2_379,2,Cola volátil 1
+HOUSEHOLD_2_380,2,Cola volátil 1
+HOUSEHOLD_2_383,3,Cola volátil 2
+HOUSEHOLD_2_384,2,Cola volátil 1
+HOUSEHOLD_2_385,2,Cola volátil 1
+HOUSEHOLD_2_388,2,Cola volátil 1
+HOUSEHOLD_2_390,1,Núcleo de alto valor
+HOUSEHOLD_2_391,3,Cola volátil 2
+HOUSEHOLD_2_392,3,Cola volátil 2
+HOUSEHOLD_2_393,3,Cola volátil 2
+HOUSEHOLD_2_394,2,Cola volátil 1
+HOUSEHOLD_2_395,3,Cola volátil 2
+HOUSEHOLD_2_398,3,Cola volátil 2
+HOUSEHOLD_2_403,1,Núcleo de alto valor
+HOUSEHOLD_2_406,1,Núcleo de alto valor
+HOUSEHOLD_2_407,3,Cola volátil 2
+HOUSEHOLD_2_408,1,Núcleo de alto valor
+HOUSEHOLD_2_409,1,Núcleo de alto valor
+HOUSEHOLD_2_410,1,Núcleo de alto valor
+HOUSEHOLD_2_411,1,Núcleo de alto valor
+HOUSEHOLD_2_412,3,Cola volátil 2
+HOUSEHOLD_2_415,2,Cola volátil 1
+HOUSEHOLD_2_416,2,Cola volátil 1
+HOUSEHOLD_2_417,3,Cola volátil 2
+HOUSEHOLD_2_421,3,Cola volátil 2
+HOUSEHOLD_2_422,3,Cola volátil 2
+HOUSEHOLD_2_423,1,Núcleo de alto valor
+HOUSEHOLD_2_424,3,Cola volátil 2
+HOUSEHOLD_2_425,3,Cola volátil 2
+HOUSEHOLD_2_426,1,Núcleo de alto valor
+HOUSEHOLD_2_427,1,Núcleo de alto valor
+HOUSEHOLD_2_428,3,Cola volátil 2
+HOUSEHOLD_2_429,2,Cola volátil 1
+HOUSEHOLD_2_431,2,Cola volátil 1
+HOUSEHOLD_2_433,2,Cola volátil 1
+HOUSEHOLD_2_434,4,Emergentes de crecimiento
+HOUSEHOLD_2_435,3,Cola volátil 2
+HOUSEHOLD_2_436,1,Núcleo de alto valor
+HOUSEHOLD_2_437,1,Núcleo de alto valor
+HOUSEHOLD_2_438,3,Cola volátil 2
+HOUSEHOLD_2_439,2,Cola volátil 1
+HOUSEHOLD_2_440,1,Núcleo de alto valor
+HOUSEHOLD_2_441,3,Cola volátil 2
+HOUSEHOLD_2_442,1,Núcleo de alto valor
+HOUSEHOLD_2_443,3,Cola volátil 2
+HOUSEHOLD_2_444,2,Cola volátil 1
+HOUSEHOLD_2_445,1,Núcleo de alto valor
+HOUSEHOLD_2_446,3,Cola volátil 2
+HOUSEHOLD_2_447,3,Cola volátil 2
+HOUSEHOLD_2_450,2,Cola volátil 1
+HOUSEHOLD_2_452,1,Núcleo de alto valor
+HOUSEHOLD_2_453,2,Cola volátil 1
+HOUSEHOLD_2_455,1,Núcleo de alto valor
+HOUSEHOLD_2_456,2,Cola volátil 1
+HOUSEHOLD_2_457,2,Cola volátil 1
+HOUSEHOLD_2_458,4,Emergentes de crecimiento
+HOUSEHOLD_2_460,1,Núcleo de alto valor
+HOUSEHOLD_2_461,3,Cola volátil 2
+HOUSEHOLD_2_462,2,Cola volátil 1
+HOUSEHOLD_2_464,4,Emergentes de crecimiento
+HOUSEHOLD_2_465,1,Núcleo de alto valor
+HOUSEHOLD_2_466,2,Cola volátil 1
+HOUSEHOLD_2_468,1,Núcleo de alto valor
+HOUSEHOLD_2_470,1,Núcleo de alto valor
+HOUSEHOLD_2_471,2,Cola volátil 1
+HOUSEHOLD_2_472,1,Núcleo de alto valor
+HOUSEHOLD_2_473,3,Cola volátil 2
+HOUSEHOLD_2_474,3,Cola volátil 2
+HOUSEHOLD_2_479,3,Cola volátil 2
+HOUSEHOLD_2_480,2,Cola volátil 1
+HOUSEHOLD_2_481,1,Núcleo de alto valor
+HOUSEHOLD_2_483,1,Núcleo de alto valor
+HOUSEHOLD_2_485,3,Cola volátil 2
+HOUSEHOLD_2_486,3,Cola volátil 2
+HOUSEHOLD_2_488,1,Núcleo de alto valor
+HOUSEHOLD_2_489,1,Núcleo de alto valor
+HOUSEHOLD_2_491,2,Cola volátil 1
+HOUSEHOLD_2_492,3,Cola volátil 2
+HOUSEHOLD_2_494,3,Cola volátil 2
+HOUSEHOLD_2_495,2,Cola volátil 1
+HOUSEHOLD_2_497,1,Núcleo de alto valor
+HOUSEHOLD_2_500,3,Cola volátil 2
+HOUSEHOLD_2_503,3,Cola volátil 2
+HOUSEHOLD_2_504,3,Cola volátil 2
+HOUSEHOLD_2_505,3,Cola volátil 2
+HOUSEHOLD_2_507,2,Cola volátil 1
+HOUSEHOLD_2_508,1,Núcleo de alto valor
+HOUSEHOLD_2_509,3,Cola volátil 2
+HOUSEHOLD_2_510,1,Núcleo de alto valor
+HOUSEHOLD_2_511,1,Núcleo de alto valor
+HOUSEHOLD_2_512,3,Cola volátil 2
+HOUSEHOLD_2_514,1,Núcleo de alto valor
+HOUSEHOLD_2_516,3,Cola volátil 2

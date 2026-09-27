@@ -1,0 +1,81 @@
+PAQUETE PARA EL EQUIPO — Grupo 7 (Melo, Ojeda, Yucasi)
+Maestria en Ciencia de Datos, Universidad Continental
+
+QUE ES ESTO
+  El cuaderno de presentacion, el codigo del experimento y los datos y
+  resultados de los dos conjuntos publicos. Sirve para revisar y reproducir
+  la parte publica del estudio sin depender del Drive de nadie.
+
+COMO ABRIRLO (lo mas rapido)
+  1. Subir este ZIP a Google Colab y correr la celda de carga por ZIP del
+     cuaderno (celda 7, esta comentada: descomentarla).
+  2. O bien: descomprimir en /content/tesis_grupo7 y abrir el cuaderno
+     TESIS_GRUPO7_PRESENTACION.ipynb.
+  El cuaderno busca los archivos en varias carpetas y avisa cuales faltan.
+  Las secciones sin archivo se saltan solas, no se rompe nada.
+
+QUE SE PUEDE CORRER DE CERO
+  python tesis_grupo7.py m5
+  python tesis_grupo7.py rohlik_cz
+  python tesis_grupo7.py rohlik_hu
+  Los tres usan los CSV incluidos aqui. Semilla fija en 75.
+  El modo 'privado' NO se puede correr: necesita el archivo de la empresa,
+  que no se comparte.
+
+QUE NO ESTA Y POR QUE
+  El conjunto de la empresa del sector retail peruano esta sujeto a
+  condiciones de confidencialidad: no se publican los datos originales ni los
+  identificadores del sistema de origen, y la razon social se mantiene
+  reservada. De ese conjunto solo se incluyen resultados agregados por
+  clúster (v6_priv_resultados.csv) y las figuras, que no rotulan ningun
+  producto. Son las mismas cifras que ya estan en el documento.
+
+DE DONDE SALEN LOS DATOS PUBLICOS
+  M5 Forecasting - Accuracy
+    https://www.kaggle.com/competitions/m5-forecasting-accuracy
+  Rohlik Sales Forecasting Challenge, edicion v2
+    https://www.kaggle.com/competitions/rohlik-sales-forecasting-challenge-v2
+  Los CSV incluidos son paneles mensuales derivados de esos archivos.
+  El detalle de la derivacion esta en COMO_CORRER_EN_COLAB.txt.
+
+CONTENIDO
+
+  Codigo y cuaderno
+    TESIS_GRUPO7_PRESENTACION.ipynb          48,520 bytes
+    tesis_grupo7.py                         102,110 bytes
+    COMO_CORRER_EN_COLAB.txt                  5,843 bytes
+
+  Datos publicos (paneles mensuales y precios)
+    m5_mensual_item.csv                     771,949 bytes
+    m5_precios_item.csv                     154,344 bytes
+    rohlik_cz_mensual.csv                   337,689 bytes
+    rohlik_cz_precios.csv                    21,928 bytes
+    rohlik_hu_mensual.csv                   287,105 bytes
+    rohlik_hu_precios.csv                    20,736 bytes
+
+  Resultados
+    m5_resultados_objetivo1.csv             529,575 bytes
+    v6_m5_oe3.csv                             2,469 bytes
+    v6_m5_clusters.csv                       64,333 bytes
+    roh_cz_objetivo1.csv                    138,742 bytes
+    roh_cz_oe3.csv                            2,938 bytes
+    roh_cz_clusters.csv                      12,761 bytes
+    roh_hu_objetivo1.csv                    130,465 bytes
+    roh_hu_oe3.csv                            3,426 bytes
+    roh_hu_clusters.csv                       6,837 bytes
+    v6_priv_resultados.csv                    1,619 bytes
+    resumen_cuatro_conjuntos.csv                727 bytes
+
+  Figuras del capitulo V
+    fig1_concentracion.png                   97,759 bytes
+    fig2_patrones.png                       345,625 bytes
+    fig3_correlacion.png                    322,084 bytes
+    fig4_bivariados.png                     315,019 bytes
+    fig5_grupos.png                         200,817 bytes
+    fig6_wmape.png                           91,932 bytes
+
+  Excluidos por confidencialidad
+    matriz_maestra_full_T.xlsx           matriz original de la empresa
+    resultados_objetivo1.csv             trae el código de SKU y el precio unitario de la empresa
+    eda_oe1_resultados.csv               idem, por SKU de la empresa
+    perfil_cluster_k3.csv                perfil por SKU de la empresa
